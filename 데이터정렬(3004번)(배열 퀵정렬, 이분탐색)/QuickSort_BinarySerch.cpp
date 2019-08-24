@@ -51,7 +51,7 @@ void Quick_Sort(int* data, int start, int end)
 	Quick_Sort(data, j + 1, end);
 }
 
-int BinarySerch(int* data, int targetNum, int start, int end)
+int BinarySearch(int* data, int targetNum, int start, int end)
 {
 	int pivot = (start + end) / 2;
 	if (targetNum == data[pivot])
@@ -60,11 +60,11 @@ int BinarySerch(int* data, int targetNum, int start, int end)
 	}
 	else if (targetNum < data[pivot])
 	{
-		return BinarySerch(data, targetNum, start, pivot - 1);
+		return BinarySearch(data, targetNum, start, pivot - 1);
 	}
 	else if (targetNum > data[pivot])
 	{
-		return BinarySerch(data, targetNum, pivot + 1, end);
+		return BinarySearch(data, targetNum, pivot + 1, end);
 	}
 }
 
@@ -83,7 +83,7 @@ int main()
 
 	for (int i = 0; i < length; i++)
 	{
-		cout << BinarySerch(t_array, temp[i], 0, length) << " ";
+		cout << BinarySearch(t_array, temp[i], 0, length) << " ";
 	}
 
 	return 0;
