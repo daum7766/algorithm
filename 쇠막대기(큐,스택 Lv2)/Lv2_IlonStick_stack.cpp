@@ -24,7 +24,7 @@ int solution(string arrangement) {
 			//전 기호가 여는 기호였다면 레이저이므로 열린괄호만큼 개수추가
 			if (arrangement[i - 1] == '(')
 			{
-				answer += static_cast<int>(num.size());
+				answer += num.size();
 			}
 			else//전 기호가 여는 기호가 아니었다면 쇠막대기의 마지막이므로 1개 추가
 			{
