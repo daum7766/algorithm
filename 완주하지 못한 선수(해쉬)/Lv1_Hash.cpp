@@ -55,18 +55,8 @@ string solution2(vector<string> participant, vector<string> completion)
 }
 
 int main() {
-	vector<string> a, b;
-	string a1[] = { "marina", "josipa", "nikola", "vinko", "filipa" };
-	string a2[] = { "josipa", "filipa", "marina", "nikola" };
-
-	for (int i = 0; i < 5; i++)
-	{
-		a.push_back(a1[i]);
-	}
-	for (int i = 0; i < a.size() - 1; i++)
-	{
-		b.push_back(a2[i]);
-	}
+	vector<string> a = { "marina", "josipa", "nikola", "vinko", "filipa" };
+	vector<string> b = { "josipa", "filipa", "marina", "nikola" };
 	cout << solution(a, b) << endl;
 	return 0;
 }
