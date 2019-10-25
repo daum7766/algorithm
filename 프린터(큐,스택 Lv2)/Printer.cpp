@@ -6,9 +6,7 @@
 using namespace std;
 
 int solution(vector<int> priorities, int location) {
-	int answer = 0;
-	int count = 0;
-
+	int answer = 0, count = 0;
 	//일반큐
 	queue<pair<int, int>> que;
 	//우선순위 큐
@@ -39,18 +37,27 @@ int solution(vector<int> priorities, int location) {
 			}
 		}
 		//우선순위 1순위와 현재값이 같지않다면 큐 뒤에 넣기
-		else {
+		else
 			que.push(make_pair(index, value));
-		}
 	}
 	return answer;
+}
+
+void print(vector<int> priorities, int location, int answer)
+{
+	int t = solution(priorities, location);
+	cout << t << " , ";
+	if (t == answer)
+		cout << "정답" << endl;
+	else
+		cout << "틀림" << endl;
 }
 
 
 int main()
 {
-	vector<int> t = { 1, 1, 1, 9, 1, 1, 1 };
-	solution(t, 5);
+	print({ 1, 1, 1, 9, 1, 1, 1 }, 0, 5);
+	print({ 2,1,3,2 }, 2, 1);
 
 	return 0;
 }
