@@ -5,15 +5,11 @@
 using namespace std;
 
 int solution(int bridge_length, int weight, vector<int> truck_weights) {
-	int answer = 0;
-	//도로에 올라가져있는차
-	queue<int> count;
 	//현재 도로에 올라가져있는 차 무게
-	int currentWeight = 0;
-	//차마다 남은 거리
-	queue<int> bridgeOn;
-	while (true)
-	{
+	int answer = 0, currentWeight = 0;
+	//도로에 올라가져있는차, 차마다 남은 거리
+	queue<int> count, bridgeOn;
+	while (true) {
 		//중간에 차가 빠져나가면 계산이 바뀌기때문에 size고정
 		int size = bridgeOn.size();
 		for (int i = 0; i < size; i++)
@@ -21,8 +17,7 @@ int solution(int bridge_length, int weight, vector<int> truck_weights) {
 			int length = bridgeOn.front();
 			bridgeOn.pop();
 			//도로 남은길이가 없다면
-			if (length <= 1)
-			{
+			if (length <= 1) {
 				//도로에서 현재차 무게를 제외
 				currentWeight -= count.front();
 				//도로에 올라가져 있는차 제외
@@ -33,8 +28,7 @@ int solution(int bridge_length, int weight, vector<int> truck_weights) {
 			bridgeOn.push(length - 1);
 		}
 		//대기차가 1대이상 있고 도로가 무게를 견딜 수 있다면
-		if (truck_weights.size() > 0 && currentWeight + truck_weights.at(0) <= weight)
-		{
+		if (truck_weights.size() > 0 && currentWeight + truck_weights.at(0) <= weight) {
 			//도로에 올라가져있는 차 추가
 			count.push(truck_weights.at(0));
 			//현재 올라가져있는 무게 추가
@@ -48,17 +42,25 @@ int solution(int bridge_length, int weight, vector<int> truck_weights) {
 		answer++;
 		//도로에 올라가져있는차와 대기차가 모두없다면 반복문 탈출
 		if (truck_weights.size() == 0 && count.size() == 0)
-		{
 			break;
-		}
 	}
 	return answer;
 }
 
-int main()
+void print(int bridge_length, int weight, vector<int> truck_weights, int answer)
 {
-	vector<int> a = { 10,10,10,10,10,10,10,10,10,10 };
-	cout << solution(100, 100, a) << endl;
+	int t = solution(bridge_length, weight, truck_weights);
+	cout << t << " , ";
+	if (t == answer)
+		cout << "정답" << endl;
+	else
+		cout << "틀림" << endl;
+}
+
+int main() {
+	print(100, 100, { 10,10,10,10,10,10,10,10,10,10 }, 110);
+	print(2, 10, { 7,4,5,6 }, 8);
+	print(100, 100, { 10 }, 101);
 
 	return 0;
 }
