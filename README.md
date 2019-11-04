@@ -1,6 +1,21 @@
 # ProgrammersProblem
 프로그래머스 문제풀이
 
+## 목차
+타입 | 링크
+--------|--------
+해시 | [링크](https://github.com/daum7766/ProgrammersProblem#1%ED%95%B4%EC%8B%9C)
+스택/큐 | [링크](https://github.com/daum7766/ProgrammersProblem#2%EC%8A%A4%ED%83%9D%ED%81%90)
+힙 | [링크](https://github.com/daum7766/ProgrammersProblem#3%ED%9E%99heap)
+정렬 | [링크](https://github.com/daum7766/ProgrammersProblem#4%EC%A0%95%EB%A0%AC)
+완전탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#5%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
+탐욕법 | [링크](https://github.com/daum7766/ProgrammersProblem#6%ED%83%90%EC%9A%95%EB%B2%95greedy)
+동적계획법 | [링크](https://github.com/daum7766/ProgrammersProblem#7%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95dynamic-programming)
+깊이/너비 우선 탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#8%EA%B9%8A%EC%9D%B4%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89dfsbfs)
+이분탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#9%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89)
+그래프 | [링크](https://github.com/daum7766/ProgrammersProblem#10%EA%B7%B8%EB%9E%98%ED%94%84)
+
+
 ## 1.해시
 
 레벨 | 문제이름 | 주소
@@ -28,3 +43,64 @@ Lv2|더맵게|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%
 Lv2|라면공장|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EB%9D%BC%EB%A9%B4%EA%B3%B5%EC%9E%A5(%ED%9E%99%20Lv2)/Lv2_RamenFactory_Heap.cpp)
 Lv3|디스크 컨트롤러|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC(%ED%9E%99%20Lv3)/DiskController.cpp)
 Lv3|이중우선순위 큐|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90(%ED%9E%99%20Lv3)/DoublePriorityQueue.cpp)
+
+## 4.정렬
+레벨 | 문제이름 | 주소
+--------|--------|---------
+Lv1|K번째수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/K%EB%B2%88%EC%A7%B8%EC%88%98(%EC%A0%95%EB%A0%ACLv1)/kNumber.cpp)
+Lv2|가장 큰 수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98(%EC%A0%95%EB%A0%ACLv2)/BigNumber.cpp)
+Lv2|H-Index|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/H-Index(%EC%A0%95%EB%A0%ACLv2)/h-Index.cpp)
+
+## 5.완전탐색
+레벨 | 문제이름 | 주소
+--------|--------|---------
+Lv1|모의고사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv1)/MockTest.cpp)
+LV2|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv2)/L2_primeNumber.cpp)
+Lv2|숫자야구|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv2)/Lv2_Numbers_BaseBall.cpp)
+Lv2|카펫|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%ED%8E%AB(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20LV2)/Lv2_Carpet.cpp)
+
+## 6.탐욕법(Greedy)
+레벨 | 문제이름 | 주소
+--------|--------|---------
+Lv1|체육복|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B2%B4%EC%9C%A1%EB%B3%B5(%ED%83%90%EC%9A%95%EB%B2%95%20Lv1)/Lv1_Greedy_GymSuit.cpp)
+Lv2|조이스틱|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1(%ED%83%90%EC%9A%95%EB%B2%95%20Lv2)/Lv2_Jostick_greedy.cpp)
+Lv2|큰 수 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(%ED%83%90%EC%9A%95%EB%B2%95%20Lv2)/Lv2_Greedy_bigNumber.cpp)
+Lv2|구명보트|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8(%ED%83%90%EC%9A%95%EB%B2%95%20Lv2)/Lv2_Greedy_Lifeboat.cpp)
+Lv3|섬 연결하기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0(%ED%83%90%EC%9A%95%EB%B2%95%20Lv3)/Lv3_Greedy_ConnectIsland.cpp)
+Lv3|단속카메라|[cpp](https://github.com/daum7766/ProgrammersProblem/tree/master/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC(%ED%83%90%EC%9A%95%EB%B2%95%20Lv3))
+Lv3|저울|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%A0%80%EC%9A%B8(%ED%83%90%EC%9A%95%EB%B2%95%20Lv3)/Lv3_Greedy_Scale.cpp)
+
+
+## 7.동적계획법(Dynamic Programming)
+레벨 | 문제이름 | 주소
+--------|--------|---------
+Lv3|N으로 표현|미구현
+Lv3|타일 장식물|미구현
+Lv3|정수 삼각형|미구현
+Lv3|등굣길|미구현
+Lv4|카드 게임|미구현
+Lv4|도둑질|미구현
+Lv4|서울에서 경산까지|미구현
+
+## 8.깊이/너비 우선 탐색(DFS/BFS)
+레벨 | 문제이름 | 주소
+--------|--------|---------
+Lv2|타겟넘버|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%80%EC%BC%93%EB%84%98%EB%B2%84(DFS%2CBFS%20Lv2)/Lv2_DFS_TargetNumber.cpp)
+Lv3|네트워크|미구현
+Lv3|단어 변환|미구현
+Lv3|여행경로|미구현
+
+## 9.이분탐색
+레벨 | 문제이름 | 주소
+--------|--------|---------
+Lv3|예산|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%98%88%EC%82%B0(%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%20Lv3)/Lv3_Budget.cpp)
+Lv3|입국심사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/Lv3_BinarySerch_Immigration.cpp)
+Lv4|징검다리|미구현
+
+## 10.그래프
+레벨 | 문제이름 | 주소
+--------|--------|---------
+Lv3|가장 먼 노드|미구현
+Lv3|순위|미구현
+Lv4|사이클 제거|미구현
+Lv5|방의 개수|미구현
