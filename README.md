@@ -86,7 +86,7 @@ Lv4|서울에서 경산까지|미구현
 레벨 | 문제이름 | 주소
 --------|--------|---------
 Lv2|타겟넘버|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%80%EC%BC%93%EB%84%98%EB%B2%84(DFS%2CBFS%20Lv2)/Lv2_DFS_TargetNumber.cpp)
-Lv3|네트워크|미구현
+Lv3|네트워크|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC(DFS%2CBFS%20Lv3)/Lv3_DFS_Network.cpp)
 Lv3|단어 변환|미구현
 Lv3|여행경로|미구현
 
@@ -94,7 +94,7 @@ Lv3|여행경로|미구현
 레벨 | 문제이름 | 주소
 --------|--------|---------
 Lv3|예산|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%98%88%EC%82%B0(%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%20Lv3)/Lv3_Budget.cpp)
-Lv3|입국심사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/Lv3_BinarySerch_Immigration.cpp)
+Lv3|입국심사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC(%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%20Lv3)/Lv3_BinarySerch_Immigration.cpp)
 Lv4|징검다리|미구현
 
 ## 10.그래프
