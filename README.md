@@ -4,9 +4,9 @@
 ## 목차
 타입|링크
 --------|--------
-정렬|
-재귀함수|
-탐색기반설계|
+정렬|[주소](https://github.com/daum7766/CodeUp-basic-Problem#1-%EC%A0%95%EB%A0%AC)
+재귀함수|[주소](https://github.com/daum7766/CodeUp-basic-Problem#2-%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
+탐색기반설계|[주소](https://github.com/daum7766/CodeUp-basic-Problem#3-%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84)
 
 ## 1. 정렬
 
