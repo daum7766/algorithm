@@ -4,12 +4,12 @@
 ## 목차
 타입|링크
 --------|--------
-기초100제|[주소]()
+기초100제|[주소](https://github.com/daum7766/CodeUp-basic-Problem#1-%EA%B8%B0%EC%B4%88100%EC%A0%9C)
 정렬|[주소](https://github.com/daum7766/CodeUp-basic-Problem#2-%EC%A0%95%EB%A0%AC)
 재귀함수|[주소](https://github.com/daum7766/CodeUp-basic-Problem#3-%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
 탐색기반설계|[주소](https://github.com/daum7766/CodeUp-basic-Problem#4-%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84)
 
-## 1.기초100제
+## 1. 기초100제
 번호|문제이름|주소
 --------|--------|--------
 1097|바둑알 십자 뒤집기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/97%EB%B2%88)
