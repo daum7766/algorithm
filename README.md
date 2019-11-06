@@ -4,11 +4,19 @@
 ## 목차
 타입|링크
 --------|--------
-정렬|[주소](https://github.com/daum7766/CodeUp-basic-Problem#1-%EC%A0%95%EB%A0%AC)
-재귀함수|[주소](https://github.com/daum7766/CodeUp-basic-Problem#2-%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
-탐색기반설계|[주소](https://github.com/daum7766/CodeUp-basic-Problem#3-%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84)
+기초100제|[주소]()
+정렬|[주소](https://github.com/daum7766/CodeUp-basic-Problem#2-%EC%A0%95%EB%A0%AC)
+재귀함수|[주소](https://github.com/daum7766/CodeUp-basic-Problem#3-%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
+탐색기반설계|[주소](https://github.com/daum7766/CodeUp-basic-Problem#4-%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84)
 
-## 1. 정렬
+## 1.기초100제
+번호|문제이름|주소
+--------|--------|--------
+1097|바둑알 십자 뒤집기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/97%EB%B2%88)
+1098|설탕과자 뽑기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/98%EB%B2%88)
+1099|성실한 개미|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/99%EB%B2%88)
+
+## 2. 정렬
 
 번호|문제이름|주소
 --------|--------|--------
@@ -20,7 +28,7 @@
 3015|성적표 출력|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%B0%8F%20%EC%A0%95%EB%A0%AC(3015%EB%B2%88)(%EC%84%B1%EC%A0%81%ED%91%9C))
 3017|정렬 기준|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EB%A0%AC(3017%EB%B2%88)(%EA%B5%AC%EC%A1%B0%EC%B2%B4%EC%A0%95%EB%A0%AC))
 
-## 2. 재귀함수
+## 3. 재귀함수
 
 번호|문제이름|주소
 --------|--------|--------
@@ -30,7 +38,7 @@
 3733|우박수길이|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98(3733%EB%B2%88)(%EC%9A%B0%EB%B0%95%EC%88%98%EA%B8%B8%EC%9D%B4))
 4564|계단오르기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98(4564%EB%B2%88)(%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0))
 
-## 3. 탐색기반설계
+## 4. 탐색기반설계
 
 번호|문제이름|주소
 --------|--------|--------
