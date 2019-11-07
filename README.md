@@ -14,6 +14,7 @@
 깊이/너비 우선 탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#8%EA%B9%8A%EC%9D%B4%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89dfsbfs)
 이분탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#9%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89)
 그래프 | [링크](https://github.com/daum7766/ProgrammersProblem#10%EA%B7%B8%EB%9E%98%ED%94%84)
+Lv1기타 | [링크](https://github.com/daum7766/ProgrammersProblem/blob/master/README.md#11lv1-%EA%B8%B0%ED%83%80)
 
 
 ## 1.해시
@@ -104,3 +105,8 @@ Lv3|가장 먼 노드|미구현
 Lv3|순위|미구현
 Lv4|사이클 제거|미구현
 Lv5|방의 개수|미구현
+
+## 11.Lv1 기타
+레벨 | 문제이름 | 주소
+--------|--------|---------
+Lv1|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(Lv1)/Lv1_PrimeNumber.cpp)
