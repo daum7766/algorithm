@@ -15,6 +15,7 @@
 이분탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#9%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89)
 그래프 | [링크](https://github.com/daum7766/ProgrammersProblem#10%EA%B7%B8%EB%9E%98%ED%94%84)
 기타문제 | [링크](https://github.com/daum7766/ProgrammersProblem/blob/master/README.md#11%EA%B8%B0%ED%83%80)
+2018카카오 블라인드 문제 | [링크]()
 
 
 ## 1.해시
@@ -111,3 +112,8 @@ Lv5|방의 개수|미구현
 --------|--------|---------
 Lv1|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(Lv1)/Lv1_PrimeNumber.cpp)
 Lv1|최대공약수와 최소공배수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%2C%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98(Lv1)/Lv1_gcd_lcm.cpp)
+Lv2|124나라의 숫자|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90(Lv2)/124Number.cpp)
+Lv2|소수만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp)
+Lv2|최솟값 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp)
+Lv2|피보나치 수열|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4(Lv2)/Fibonacci(Lv2).cpp)
+
