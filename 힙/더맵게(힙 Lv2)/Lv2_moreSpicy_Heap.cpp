@@ -9,8 +9,7 @@ int solution(vector<int> scoville, int K) {
 	//우선순위큐 오름차순
 	priority_queue<int, vector<int>, greater<int> > pq(scoville.begin(), scoville.end());
 	//음식이 최소2개이상이고 제일안매운 음식이 K보다 작을때까지만 반복
-	while (pq.size() > 1 && pq.top() < K)
-	{
+	while (pq.size() > 1 && pq.top() < K){
 		int first = pq.top();
 		pq.pop();
 		int second = pq.top();
@@ -21,17 +20,21 @@ int solution(vector<int> scoville, int K) {
 		answer++;
 	}
 	//모든 조합이 끝났을때 우선순위 큐의 제일 맵지 않은 음식이 K보다 작다면 -1을 리턴
-	if (pq.top() < K)
-	{
-		return -1;
-	}
+	if (pq.top() < K)	return -1;
 	return answer;
 }
 
-int main()
-{
-	vector<int> scovile = { 1,2,3,9,10,12 };
-	int k = 7;
-	cout << solution(scovile, k) << endl;
+void print(vector<int> scoville, int K, int answer) {
+	int t = solution(scoville, K);
+	if (t == answer)
+		cout << "정답" << endl;
+	else
+		cout << "틀림" << endl;
+
+}
+
+int main(){
+	
+	print({ 1,2,3,9,10,12 }, 4, 2);
 	return 0;
 }
