@@ -88,6 +88,8 @@ void print(vector<vector<string>> relation, int answer) {
 
 int main() {
 
-	print({ {"100", "ryan", "music", "2"}, {"200", "apeach", "math", "2"}, {"300", "tube", "computer", "3"}, {"400", "con", "computer", "4"}, {"500", "muzi", "music", "3"}, {"600", "apeach", "music", "2"} }, 2);
+	print({ {"100", "ryan", "music", "2"}, {"200", "apeach", "math", "2"},
+		{"300", "tube", "computer", "3"}, {"400", "con", "computer", "4"},
+		{"500", "muzi", "music", "3"}, {"600", "apeach", "music", "2"} }, 2);
 	return 0;
 }
