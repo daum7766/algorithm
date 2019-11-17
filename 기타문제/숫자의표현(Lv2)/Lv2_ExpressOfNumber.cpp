@@ -62,5 +62,10 @@ void print(int n, int answer) {
 
 int main() {
 	print(15, 4);
+	print(42, 4);
+	print(8468, 4);
+	print(6335, 8);
+	print(6501, 8);
+	print(9170, 8);
 	return 0;
 }
