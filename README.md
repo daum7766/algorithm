@@ -15,8 +15,8 @@
 이분탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#9%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89)
 그래프 | [링크](https://github.com/daum7766/ProgrammersProblem#10%EA%B7%B8%EB%9E%98%ED%94%84)
 기타문제 | [링크](https://github.com/daum7766/ProgrammersProblem/blob/master/README.md#11%EA%B8%B0%ED%83%80)
-카카오 블라인드 문제 | [링크]()
-윈터/서머코딩 | [링크]()
+카카오 블라인드 문제 | [링크](https://github.com/daum7766/ProgrammersProblem#12%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+윈터/서머코딩 | [링크](https://github.com/daum7766/ProgrammersProblem#13%EC%9C%88%ED%84%B0%EC%84%9C%EB%A8%B8-%EC%BD%94%EB%94%A9)
 
 
 ## 1.해시
@@ -121,7 +121,16 @@ Lv2|피보나치 수열|[cpp](https://github.com/daum7766/ProgrammersProblem/blo
 ## 12.카카오 블라인드 테스트
 레벨 | 문제이름 | 주소
 --------|--------|---------
+Lv1|2018 다트게임|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_DartGame.cpp)
+Lv1|2018 비밀지도|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_SecretMap.cpp)
+Lv1|2019 실패율|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv1_Failure%20rate.cpp)
+Lv2|2019 후보키|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_CandidateKey.cpp)
+Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp)
+Lv4|2019 무지의 먹방라이브|[cpp]()
+Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv1_String_compression.cpp)
 
 ## 13.윈터/서머 코딩
 레벨 | 문제이름 | 주소
 --------|--------|---------
+Lv2|스킬트리|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%84%9C%EB%A8%B8%2C%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9/Lv2_SkillTree.cpp)
+
