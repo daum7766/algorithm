@@ -11,9 +11,9 @@ vector<int> solution(vector<int> answers) {
 	vector<int> count = { 0, 0, 0 };
 	for (int i = 0; i < answers.size(); i++) {
 		// 정답을 각 번호와 비교하여 카운트 증가
-		if (answers.at(i) == math.at(0).at(i % math.at(0).size()))	count[0]++;
-		if (answers.at(i) == math.at(1).at(i % math.at(1).size()))	count[1]++;
-		if (answers.at(i) == math.at(2).at(i % math.at(2).size()))	count[2]++;
+		if (answers[i] == math[0][i % math[0].size()])	count[0]++;
+		if (answers[i] == math[1][i % math[1].size()])	count[1]++;
+		if (answers[i] == math[2][i % math[2].size()])	count[2]++;
 	}
 	//제일 높은 점수찾기
 	int max = *max_element(count.begin(), count.end());
