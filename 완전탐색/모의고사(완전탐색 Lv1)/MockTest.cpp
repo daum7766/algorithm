@@ -23,12 +23,17 @@ vector<int> solution(vector<int> answers) {
 	return answer;
 }
 
+void print(vector<int> answers, vector<int> answer) {
+	vector<int> t = solution(answers);
+	if (t == answer)
+		cout << "정답" << endl;
+	else
+		cout << "틀림" << endl;
+}
+
 int main() {
-	vector<int> ans{ 1,3,2,4,2 };
-	vector<int> result = solution(ans);
-	for (auto r : result)
-	{
-		cout << r << endl;
-	}
+	print({ 1,2,3,4,5 }, {1});
+	print({ 1,3,2,4,2 }, {1,2,3});
+	print({ 4, 1, 1, 4, 3, 4, 3, 1, 4, 2 }, { 1, 2 });
 	return 0;
 }
