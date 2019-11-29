@@ -1,5 +1,6 @@
 #include <string>
 #include <stack>
+#include <iostream>
 using namespace std;
 
 int solution(string s) {
