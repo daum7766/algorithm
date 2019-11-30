@@ -22,9 +22,9 @@ vector<int> solution(int N, vector<int> stages) {
 		stagesClear[stages[j]]++;
 	for (int i = 1; i <= N; i++) {		//1스테이지부터 N스테이지까지 순회
 		if (!pCount || !stagesClear[i])//스테이지와 못깬인원/총 인원으로 나눔
-			percent.push_back(make_pair(i, 0));
+			percent.push_back({ i, 0 });
 		else
-			percent.push_back(make_pair(i, (double)stagesClear[i] / pCount));
+			percent.push_back({ i, (double)stagesClear[i] / pCount });
 		pCount -= stagesClear[i];		//깨지못한 인원들만큼 빼기
 	}
 	sort(percent.begin(), percent.end(), compare);//내림차순으로 정렬
