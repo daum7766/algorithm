@@ -132,5 +132,5 @@ Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/b
 ## 13.윈터/서머 코딩
 레벨 | 문제이름 | 주소
 --------|--------|---------
-Lv2|스킬트리|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%84%9C%EB%A8%B8%2C%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9/Lv2_SkillTree.cpp)
+Lv2|스킬트리|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/2018%EC%84%9C%EB%A8%B8%2C%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9/Lv2_SkillTree.cpp)
 
