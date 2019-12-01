@@ -26,7 +26,7 @@
 --------|--------|--------- | --------
 Lv1|완주하지 못한선수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98(%ED%95%B4%EC%89%AC)/Lv1_Hash.cpp) | 미작성
 Lv2|전화번호목록|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80(%ED%95%B4%EC%89%ACLv2)/Lv2_Hash1.cpp)  | 미작성
-Lv2|위장|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%9C%84%EC%9E%A5(%ED%95%B4%EC%89%ACLv2)/Lv2_Hash2.cpp)
+Lv2|위장|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%9C%84%EC%9E%A5(%ED%95%B4%EC%89%ACLv2)/Lv2_Hash2.cpp) | 미작성
 Lv3|베스트앨범|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%97%98%EB%B2%94(%ED%95%B4%EC%89%ACLv3)/bestAlbum.cpp)  | 미작성
 
 ## 2.스택/큐
@@ -53,7 +53,7 @@ Lv3|이중우선순위 큐|[cpp](https://github.com/daum7766/ProgrammersProblem/
 --------|--------|---------|--------
 Lv1|K번째수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%A0%95%EB%A0%AC/K%EB%B2%88%EC%A7%B8%EC%88%98(%EC%A0%95%EB%A0%ACLv1)/kNumber.cpp) | [티스토리](https://mungto.tistory.com/21)
 Lv2|가장 큰 수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%A0%95%EB%A0%AC/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98(%EC%A0%95%EB%A0%ACLv2)/BigNumber.cpp) | [티스토리](https://mungto.tistory.com/22)
-Lv2|H-Index|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%A0%95%EB%A0%AC/H-Index(%EC%A0%95%EB%A0%ACLv2)/h-Index.cpp) [티스토리](https://mungto.tistory.com/27)
+Lv2|H-Index|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%A0%95%EB%A0%AC/H-Index(%EC%A0%95%EB%A0%ACLv2)/h-Index.cpp) | [티스토리](https://mungto.tistory.com/27)
 
 ## 5.완전탐색
 레벨 | 문제이름 | 주소 | 문제풀이
@@ -134,7 +134,7 @@ Lv1|2018 비밀지도|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/
 Lv1|2019 실패율|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv1_Failure%20rate.cpp) | [티스토리](https://mungto.tistory.com/38)
 Lv2|2019 후보키|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_CandidateKey.cpp) | [티스토리](https://mungto.tistory.com/11)
 Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp) | 미작성
-Lv4|2019 무지의 먹방라이브|[cpp]() | [티스토리](https://mungto.tistory.com/9)
+Lv4|2019 무지의 먹방라이브|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv4_eatingLive.cpp) | [티스토리](https://mungto.tistory.com/9)
 Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv1_String_compression.cpp) | [티스토리](https://mungto.tistory.com/12)
 
 ## 13.윈터/서머 코딩
