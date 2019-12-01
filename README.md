@@ -60,7 +60,7 @@ Lv2|H-Index|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC
 --------|--------|---------|--------
 Lv1|모의고사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv1)/MockTest.cpp) | [티스토리](https://mungto.tistory.com/28)
 LV2|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv2)/L2_primeNumber.cpp) | [티스토리](https://mungto.tistory.com/39)
-Lv2|숫자야구|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv2)/Lv2_Numbers_BaseBall.cpp) | 미작성
+Lv2|숫자야구|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv2)/Lv2_Numbers_BaseBall.cpp) | [티스토리](https://mungto.tistory.com/40)
 Lv2|카펫|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%B9%B4%ED%8E%AB(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20LV2)/Lv2_Carpet.cpp) | 미작성
 
 ## 6.탐욕법(Greedy)
