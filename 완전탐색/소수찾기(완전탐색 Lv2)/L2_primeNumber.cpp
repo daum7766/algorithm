@@ -10,13 +10,13 @@ void push(vector<pair<char, bool>> piece, set<int>& p, string a = "", int cnt = 
 	//처음붙터 끝까지 반복문을 돌린다.
 	for (int j = 0; j < piece.size(); j++) {
 		//j인덱스에 관련된 piece가 사용중이지 않다면
-		if (!piece.at(j).second) {
+		if (!piece[j].second) {
 			//사용중으로 변경
-			piece.at(j).second = true;
+			piece[j].second = true;
 			//문자열 추가
-			a += piece.at(j).first;
+			a += piece[j].first;
 			//현재 문자열을 경우의 수에 담기
-			p.insert(atoi(a.c_str()));
+			p.insert(stoi(a));
 			cnt++;
 		}
 		else//사용중이라면 위로 보내기
@@ -24,7 +24,7 @@ void push(vector<pair<char, bool>> piece, set<int>& p, string a = "", int cnt = 
 		//모두 사용중이 아니라면 재귀
 		if (cnt != piece.size())	push(piece, p, a, cnt);
 		//사용을 완료하면 사용하지 않음으로 바꾸기
-		piece.at(j).second = false;
+		piece[j].second = false;
 		//돌아가기 전에 문자열을 하나 감소
 		a = a.substr(0, a.length() - 1);
 		cnt--;
@@ -46,7 +46,7 @@ int solution(string numbers) {
 	set<int> p;
 	//반복문으로 numbers를 쪼개서 piece에 집어넣는다.
 	for (int i = 0; i < numbers.length(); i++)
-		piece.push_back(make_pair(numbers[i], false));
+		piece.push_back({ numbers[i], false });
 	//모든 경우의 수 찾기
 	push(piece, p);
 	for (auto c : p) {
@@ -58,8 +58,14 @@ int solution(string numbers) {
 	return answer;
 }
 
+void print(string a, int answer) {
+	int t = solution(a);
+	if (t == answer)		cout << "정답" << endl;
+	else	cout << "틀림" << endl;
+}
+
 int main() {
-	string a{ "011" };
-	cout << solution(a) << endl;
+	print("17");
+	print("011");
 	return 0;
 }
