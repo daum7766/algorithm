@@ -136,6 +136,7 @@ Lv2|2019 후보키|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/mas
 Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp) | 미작성
 Lv4|2019 무지의 먹방라이브|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv4_eatingLive.cpp) | [티스토리](https://mungto.tistory.com/9)
 Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv1_String_compression.cpp) | [티스토리](https://mungto.tistory.com/12)
+Lv2|2020 괄호변환 | 미구현 | 미작성
 
 ## 13.윈터/서머 코딩
 레벨 | 문제이름 | 주소 | 문제풀이
