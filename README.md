@@ -66,9 +66,9 @@ Lv2|카펫|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%
 ## 6.탐욕법(Greedy)
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|---------|--------
-Lv1|체육복|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%90%EC%9A%95%EB%B2%95/%EC%B2%B4%EC%9C%A1%EB%B3%B5(%ED%83%90%EC%9A%95%EB%B2%95%20Lv1)/Lv1_Greedy_GymSuit.cpp) | 미작성
-Lv2|조이스틱|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%90%EC%9A%95%EB%B2%95/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1(%ED%83%90%EC%9A%95%EB%B2%95%20Lv2)/Lv2_Jostick_greedy.cpp) | 미작성
-Lv2|큰 수 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%90%EC%9A%95%EB%B2%95/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(%ED%83%90%EC%9A%95%EB%B2%95%20Lv2)/Lv2_Greedy_bigNumber.cpp) | 미작성
+Lv1|체육복|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%90%EC%9A%95%EB%B2%95/%EC%B2%B4%EC%9C%A1%EB%B3%B5(%ED%83%90%EC%9A%95%EB%B2%95%20Lv1)/Lv1_Greedy_GymSuit.cpp) | [티스토리](https://mungto.tistory.com/41)
+Lv2|조이스틱|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%90%EC%9A%95%EB%B2%95/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1(%ED%83%90%EC%9A%95%EB%B2%95%20Lv2)/Lv2_Jostick_greedy.cpp) | [티스토리](https://mungto.tistory.com/44)
+Lv2|큰 수 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%90%EC%9A%95%EB%B2%95/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(%ED%83%90%EC%9A%95%EB%B2%95%20Lv2)/Lv2_Greedy_bigNumber.cpp) | 
 Lv2|구명보트|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%90%EC%9A%95%EB%B2%95/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8(%ED%83%90%EC%9A%95%EB%B2%95%20Lv2)/Lv2_Greedy_Lifeboat.cpp) | 미작성
 Lv3|섬 연결하기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%83%90%EC%9A%95%EB%B2%95/%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0(%ED%83%90%EC%9A%95%EB%B2%95%20Lv3)/Lv3_Greedy_ConnectIsland.cpp) | 미작성
 Lv3|단속카메라|[cpp](https://github.com/daum7766/ProgrammersProblem/tree/master/%ED%83%90%EC%9A%95%EB%B2%95/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC(%ED%83%90%EC%9A%95%EB%B2%95%20Lv3)) | 미작성
