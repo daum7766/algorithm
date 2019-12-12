@@ -22,25 +22,19 @@ int solution(vector<int> weight) {
 	만약 지금까지 더한수보다 더 큰 추가 나온다면 answer는 만들 수 없는 수이다.
 	*/
 	for (auto w : weight) {
-		if (answer < w)
-			break;
+		if (answer < w)		break;
 		answer += w;
 	}
 	return answer;
 }
 
-void print(vector<int> weight, int answer)
-{
+void print(vector<int> weight, int answer){
 	int t = solution(weight);
-	cout << t << " , ";
-	if (answer == t)
-		cout << "정답" << endl;
-	else
-		cout << "틀림" << endl;
+	if (answer == t)	cout << "정답" << endl;
+	else	cout << "틀림" << endl;
 }
 
-int main()
-{
+int main(){
 	print({ 3,1,6,2,7,30,1 }, 21);
 	return 0;
 }
