@@ -49,5 +49,7 @@ void print(string begin, string target, vector<string> words, int answer) {
 int main() {
 	print("hit", "cog", { "hot", "dot", "dog", "lot", "log", "cog" }, 4);
 	print("hit", "cog", { "hot", "dot", "dog", "lot", "log" }, 0);
+	print("hot", "lot", { "dot", "dog", "lot", "log" }, 1);
+	print("hit", "wow", { "hot", "dot", "dog", "lot", "log", "cog", "wow" }, 0);
 	return 0;
 }
