@@ -97,7 +97,7 @@ Lv3|여행경로| [cpp](https://github.com/daum7766/ProgrammersProblem/blob/mast
 ## 9.이분탐색
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|---------|--------
-Lv3|예산|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%98%88%EC%82%B0(%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%20Lv3)/Lv3_Budget.cpp) | 미작성
+Lv3|예산|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%98%88%EC%82%B0(%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%20Lv3)/Lv3_Budget.cpp) | [티스토리](https://mungto.tistory.com/55)
 Lv3|입국심사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC(%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%20Lv3)/Lv3_BinarySerch_Immigration.cpp) | 미작성
 Lv4|징검다리|미구현 | 미작성
  
