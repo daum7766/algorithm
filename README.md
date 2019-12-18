@@ -105,7 +105,7 @@ Lv4|징검다리|미구현 | 미작성
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|--------- | --------
 Lv3|가장 먼 노드|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B7%B8%EB%9E%98%ED%94%84/Lv3_farthestNode.cpp) | [티스토리](https://mungto.tistory.com/57)
-Lv3|순위|미구현 | 미작성
+Lv3|순위|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B7%B8%EB%9E%98%ED%94%84/Ranking.cpp) | [티스토리](https://mungto.tistory.com/58)
 Lv4|사이클 제거|미구현 | 미작성
 Lv5|방의 개수|미구현 | 미작성
 
