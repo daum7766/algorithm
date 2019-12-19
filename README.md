@@ -4,10 +4,11 @@
 ## 목차
 타입|링크
 --------|--------
-배열|[주소](https://github.com/daum7766/CodeUp-basic-Problem#1-%EA%B8%B0%EC%B4%88100%EC%A0%9C)
+배열|[주소](https://github.com/daum7766/CodeUp-basic-Problem#1-%EB%B0%B0%EC%97%B4)
 정렬|[주소](https://github.com/daum7766/CodeUp-basic-Problem#2-%EC%A0%95%EB%A0%AC)
 재귀함수|[주소](https://github.com/daum7766/CodeUp-basic-Problem#3-%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
 탐색기반설계|[주소](https://github.com/daum7766/CodeUp-basic-Problem#4-%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84)
+문자열|[주소](https://github.com/daum7766/CodeUp-basic-Problem#5-%EB%AC%B8%EC%9E%90%EC%97%B4)
 
 ## 1. 배열
 번호|문제이름|주소|문제풀이
