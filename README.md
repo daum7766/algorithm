@@ -16,7 +16,7 @@
 1097|바둑알 십자 뒤집기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/97%EB%B2%88)
 1098|설탕과자 뽑기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/98%EB%B2%88)
 1099|성실한 개미|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/99%EB%B2%88)
-1476|[기초-배열연습] 2차원 배열 빗금 채우기 3-1|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1476.cpp)
+1476|[기초-배열연습] 2차원 배열 빗금 채우기 3-1|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1476.cpp) | [티스토리](https://mungto.tistory.com/60)
 
 ## 2. 정렬
 
@@ -50,4 +50,4 @@
 
 번호|문제이름|주소|문제풀이
 --------|--------|--------|--------
-1990|3의 배수 판별하기 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4/1990.cpp) 
+1990|3의 배수 판별하기 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4/1990.cpp) | [티스토리](https://mungto.tistory.com/59)
