@@ -4,22 +4,23 @@
 ## 목차
 타입|링크
 --------|--------
-기초100제|[주소](https://github.com/daum7766/CodeUp-basic-Problem#1-%EA%B8%B0%EC%B4%88100%EC%A0%9C)
+배열|[주소](https://github.com/daum7766/CodeUp-basic-Problem#1-%EA%B8%B0%EC%B4%88100%EC%A0%9C)
 정렬|[주소](https://github.com/daum7766/CodeUp-basic-Problem#2-%EC%A0%95%EB%A0%AC)
 재귀함수|[주소](https://github.com/daum7766/CodeUp-basic-Problem#3-%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)
 탐색기반설계|[주소](https://github.com/daum7766/CodeUp-basic-Problem#4-%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84)
 
-## 1. 기초100제
-번호|문제이름|주소
---------|--------|--------
+## 1. 배열
+번호|문제이름|주소|문제풀이
+--------|--------|--------|--------
 1097|바둑알 십자 뒤집기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/97%EB%B2%88)
 1098|설탕과자 뽑기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/98%EB%B2%88)
 1099|성실한 개미|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/99%EB%B2%88)
+1476|[기초-배열연습] 2차원 배열 빗금 채우기 3-1|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1476.cpp)
 
 ## 2. 정렬
 
-번호|문제이름|주소
---------|--------|--------
+번호|문제이름|주소|문제풀이
+--------|--------|--------|--------
 1452|데이터정렬(large)|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EB%A0%AC(1452%EB%B2%88)(%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%ED%80%B5%EC%A0%95%EB%A0%AC))
 1805|입체기동장치|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%B0%8F%20%EC%A0%95%EB%A0%AC(1805%EB%B2%88)(%EC%9E%85%EC%B2%B4%EA%B8%B0%EB%8F%99%EC%9E%A5%EC%B9%98))
 3004|데이터 재정렬|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%95%EB%A0%AC(3004%EB%B2%88)(%EB%B0%B0%EC%97%B4%20%ED%80%B5%EC%A0%95%EB%A0%AC%2C%20%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89))
@@ -30,8 +31,8 @@
 
 ## 3. 재귀함수
 
-번호|문제이름|주소
---------|--------|--------
+번호|문제이름|주소|문제풀이
+--------|--------|--------|--------
 1920|2진수변환|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98(1920%EB%B2%88)(2%EC%A7%84%EC%88%98%EB%B3%80%ED%99%98))
 3702|파스칼삼각형|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98(3702%EB%B2%88)(%ED%8C%8C%EC%8A%A4%EC%B9%BC%EC%82%BC%EA%B0%81%ED%98%95))
 3704|계단오르기2|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98(3704%EB%B2%88)(%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B02))
@@ -40,6 +41,12 @@
 
 ## 4. 탐색기반설계
 
-번호|문제이름|주소
---------|--------|--------
+번호|문제이름|주소|문제풀이
+--------|--------|--------|--------
 2623|최대공약수|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84(2623%EB%B2%88)(%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98))
+
+## 5. 문자열
+
+번호|문제이름|주소|문제풀이
+--------|--------|--------|--------
+1990|3의 배수 판별하기 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%AC%B8%EC%9E%90%EC%97%B4/1990.cpp) 
