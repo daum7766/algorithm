@@ -78,7 +78,7 @@ Lv3|저울|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%
 ## 7.동적계획법(Dynamic Programming)
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|--------- | --------
-Lv3|N으로 표현|미구현 | 미작성
+Lv3|N으로 표현|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/Lv3_Expressed_as_N.cpp) | [티스토리](https://mungto.tistory.com/61)
 Lv3|타일 장식물|미구현 | 미작성
 Lv3|정수 삼각형|미구현 | 미작성
 Lv3|등굣길|미구현 | 미작성
