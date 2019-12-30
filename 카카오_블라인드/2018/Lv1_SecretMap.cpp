@@ -11,8 +11,7 @@ vector<string> solution(int n, vector<int> arr1, vector<int> arr2) {
 	//or연산을 담아두는 임시 리스트
 	vector<int> temp_arr;
 	//배열은 순회하면서 or연산
-	for (int i = 0; i < arr1.size(); i++)
-		temp_arr.push_back(arr1[i] | arr2[i]);
+	for (int i = 0; i < arr1.size(); i++)	temp_arr.push_back(arr1[i] | arr2[i]);
 	//연산된 값을 2로 나누면서 n만큼 푸시하기
 	for (auto temp : temp_arr) {
 		string s_temp = "";
@@ -23,18 +22,13 @@ vector<string> solution(int n, vector<int> arr1, vector<int> arr2) {
 		}
 		answer.push_back(s_temp);
 	}
-
 	return answer;
 }
 
 void print(int n, vector<int> arr1, vector<int> arr2, vector<string> answer) {
 	vector<string> t = solution(n, arr1, arr2);
-	for (auto a : t)
-		cout << a << " , ";
-	if (answer == t)
-		cout << "정답" << endl;
-	else
-		cout << "틀림" << endl;
+	if (answer == t)	cout << "정답" << endl;
+	else	cout << "틀림" << endl;
 }
 
 int main() {
