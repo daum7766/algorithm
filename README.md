@@ -112,10 +112,10 @@ Lv5|방의 개수|미구현 | 미작성
 ## 11.기타
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|---------|--------
-Lv1|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(Lv1)/Lv1_PrimeNumber.cpp) | 미작성
+Lv1|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(Lv1)/Lv1_PrimeNumber.cpp) | [티스토리](https://mungto.tistory.com/69)
 Lv1|최대공약수와 최소공배수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%2C%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98(Lv1)/Lv1_gcd_lcm.cpp) | 미작성
 Lv2|124나라의 숫자|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90(Lv2)/124Number.cpp) | 미작성
-Lv2|소수만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) | [티스토리](https://mungto.tistory.com/69)
+Lv2|소수만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) | 미작성
 Lv2|최솟값 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) | 미작성
 Lv2|피보나치 수열|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4(Lv2)/Fibonacci(Lv2).cpp) | 미작성
 Lv2|숫자의 표현 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84(Lv2)/Lv2_ExpressOfNumber.cpp) | [티스토리](https://mungto.tistory.com/13)
