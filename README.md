@@ -24,6 +24,9 @@
 1494|1차원 차이 배열 만들기 5-3 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1494.cpp) | [티스토리](https://mungto.tistory.com/66)
 1495|2차원 차이 배열 만들기 5-4 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1495.cpp) | [티스토리](https://mungto.tistory.com/67)
 1498|여러 개씩 묶어 작은 값 골라 배열 만들기 5-7 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1498.cpp) | [티스토리](https://mungto.tistory.com/68)
+1508|나도 IQ 150 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1508.cpp) | [티스토리](https://mungto.tistory.com/80)
+1509|진격 후 결과| [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1509.cpp)|[티스토리](https://mungto.tistory.com/81)
+1510|홀수 마방진| [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1510.cpp)|[티스토리](https://mungto.tistory.com/82)
 
 ## 2. 정렬
 
