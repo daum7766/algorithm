@@ -29,7 +29,7 @@
 1510|홀수 마방진| [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1510.cpp)|[티스토리](https://mungto.tistory.com/82)
 1511|테두리의 합|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1511.cpp) | [티스토리]()
 1512|숫자등고선|[cpp]() | 없음
-1513|지그재그3|[cpp]()|
+1513|지그재그3|[cpp]()| 없음
 
 ## 2. 정렬
 
