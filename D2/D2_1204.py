@@ -1,3 +1,4 @@
+# 최빈값 구하기
 t = int(input())
 while t:
     t -= 1

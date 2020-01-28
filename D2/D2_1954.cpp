@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+//달팽이 문제
 int main() {
 	int n, row, cal, limit, r, len;
 	cin >> len;
