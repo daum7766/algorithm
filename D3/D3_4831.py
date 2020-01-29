@@ -13,14 +13,12 @@ for l in range(1, length+1):
     #현재 거리와 충전횟수 저장
     current = result = 0
     #충전할수 있는 정류장만큼 반복
-    #그냥 반복도 가능하지만 최대수는 이만큼
-    for c in ch:
+    #종착역에 갈때까지 반복
+    while current + temp[0] < temp[1]:
         #우선순위 큐를 선언
         pq = PriorityQueue()
         #현재거리에 최대이동거리만큼 더해주기
         current += temp[0]
-        #더해진거리가 최종 종착역을 넘어갔다면 정지
-        if current >= temp[1]:  break
         #충전가능한 정류장이 남을때까지 반복
         while len(ch_list):
             #현재거리가 충전가능한 정류장을 지나갔다면
