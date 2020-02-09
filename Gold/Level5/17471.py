@@ -9,7 +9,7 @@ def zero_check():
     if zero_count > 1:
         print('#{} '.format(t), end = '')
         print(-1)
-        return True
+        return False
 
     if zero_count == 1:
         for i in range(N):
@@ -18,8 +18,8 @@ def zero_check():
         sum2 = Population[zero_index]
         print('#{} '.format(t), end = '')
         print(abs(sum1 - sum2))
-        return True
-    return False
+        return False
+    return True
 
 T = int(input())
 for t in range(1, T+1):
@@ -39,7 +39,12 @@ for t in range(1, T+1):
             zero_count += 1
             zero_index = i
 
+    #선거구를 나눌수 있을때 동작
     if zero_check():
-        continue
-    print('#{} '.format(t), end = '')
-    print(result)
+        #여기에 코드 작성
+        
+        print('#{} '.format(t), end = '')
+        print(result)
+
+
+    
