@@ -10,11 +10,14 @@ int main() {
 		cin >> n;
 		for (int i = 0; i < n; i++) {
 			cin >> distance;
+			// 거리를 절대값으로 바꾼다.
 			distance = abs(distance);
+			//거리가 최소거리보다 작다면 바꿔주기
 			if (distance < min) {
 				min = distance;
 				count = 1;
 			}
+			//현재 최소거리와 같은사람이 있다면 카운트 증가
 			else if (distance == min)
 				count++;
 		}
