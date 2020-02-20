@@ -2,7 +2,7 @@
 #include <string>
 
 using namespace std;
-// D2_1926 파스칼 삼각형
+// D2_2005 파스칼 삼각형
 
 int main(){
     int length, a;
