@@ -1,5 +1,4 @@
-#4874 D2 Forth
-
+#D2 4874 Forth
 T = int(input())
 
 def cal(t1, t, t2):
