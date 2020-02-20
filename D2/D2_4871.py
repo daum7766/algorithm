@@ -1,4 +1,4 @@
-#D4 4871 그래프 경로
+#D2 4871 그래프 경로
 
 def dfs(node):
     visited[node] = False
