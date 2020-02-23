@@ -28,7 +28,7 @@ D2|1983|조교의성적매기기|[cpp](https://github.com/daum7766/SWExpertAcade
 D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b65d74c0a3be3fe3477831327f334975b89b562), py|[티스토리](https://mungto.tistory.com/23)
  D2   | 2005     | 파스칼삼각형                   | cpp, py                                                      | [티스토리](https://mungto.tistory.com/110) 
  D2   | 4828     | min, max                       | py                                                           |                                            
- D2   | 4834     | 숫자카드                       | py                                                           |                                            
+ D2   | 4834     | 숫자카드                       | py                                                           | [티스토리](https://mungto.tistory.com/129) 
  D2   | 4835     | 구간합                         | py                                                           |                                            
  D2   | 4836     | 색칠하기                       | py                                                           |                                            
  D2   | 4837     | 부분집합의 합                  | py                                                           |                                            
@@ -50,7 +50,7 @@ D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b
 ## 2. D3
 레벨 |문제번호| 문제이름 | 주소 | 문제풀이
 --------|--------|--------|--------- | --------
-|||||
+D3|4831|전기버스|py|[티스토리](https://mungto.tistory.com/128)
 
 ## 3. D4
 레벨 |문제번호| 문제이름 | 주소 | 문제풀이
