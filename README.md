@@ -29,7 +29,7 @@ D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b
  D2   | 2005     | 파스칼삼각형                   | cpp, py                                                      | [티스토리](https://mungto.tistory.com/110) 
  D2   | 4828     | min, max                       | py                                                           |                                            
  D2   | 4834     | 숫자카드                       | py                                                           | [티스토리](https://mungto.tistory.com/129) 
- D2   | 4835     | 구간합                         | py                                                           |                                            
+ D2   | 4835     | 구간합                         | py                                                           | [티스토리](https://mungto.tistory.com/130) 
  D2   | 4836     | 색칠하기                       | py                                                           |                                            
  D2   | 4837     | 부분집합의 합                  | py                                                           |                                            
  D2   | 4839     | 이진탐색                       | py                                                           |                                            
