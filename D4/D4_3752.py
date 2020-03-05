@@ -1,7 +1,7 @@
 #D4 3752 가능한 시험 점수
 
-T = int(input())
-for t in range(1, T+1):
+
+for t in range(1, int(input())+1):
     N = int(input())
     scores = list(map(int, input().split()))
     #수가 나왔는지 체크
