@@ -9,7 +9,7 @@
 #     print("#{} {}".format(t, result))
 
 
-#KMP 알고리즘
+#보이어 무어 알고리즘
 def pattonmatch(p, t):
     pattonLength = len(p)
     targetLength = len(t)
