@@ -41,25 +41,27 @@ D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b
  D2   | 4873     | 반복문자 지우기                | py                                                           | [티스토리](https://mungto.tistory.com/143) 
  D2   | 4874     | Forth                          | py                                                           | [티스토리](https://mungto.tistory.com/144) 
  D2   | 4875     | 미로                           | py                                                           | [티스토리](https://mungto.tistory.com/145) 
- D2   | 4880     | 토너먼트 카드게임              | py                                                           |                                            
- D2   | 4881     | 배열 최소 합                   | py                                                           |                                            
+ D2   | 4880     | 토너먼트 카드게임              | py                                                           | [티스토리](https://mungto.tistory.com/146) 
+ D2   | 4881     | 배열 최소 합                   | py                                                           | [티스토리](https://mungto.tistory.com/147) 
 
 
 
 ## 2. D3
 레벨 |문제번호| 문제이름 | 주소 | 문제풀이
 --------|--------|--------|--------- | --------
-D3 |1206| View 조망권 | py | 
-D3 |1208| Flatten | py | 
-D3 |1215| 회문1 | py | 
-D3 |1216| 회문2 | py | 
+D3 |1206| View 조망권 | py | [티스토리](https://mungto.tistory.com/148) 
+D3 |1208| Flatten | py | [티스토리](https://mungto.tistory.com/149) 
+D3 |1215| 회문1 | py | [티스토리](https://mungto.tistory.com/150) 
+D3 |1216| 회문2 | py | [티스토리] 
 D3 |1220| Magentic | py | 
 D3 |1221| GNS | py | 
 D3 |1225| 암호생성기 | py | 
 D3 |1493| 수의 새로운 연산 | py | 
+D3 |1873| 상호의 배틀필드 | py | 
 D3 |2805| 농작물 수확하기 | py | 
 D3 |4047| 영준이의 카드 카운팅 | py | 
 D3 |4615| 재미있는 오셀로 게임 | py | 
+D3 |4676| 늘어지는 소리 | py | 
 D3 |4751| 다솔이의 다이아몬드 장식 | py | 
 D3|4831|전기버스|py|[티스토리](https://mungto.tistory.com/128)
 D3|4837|부분집합의 합|py|[티스토리](https://mungto.tistory.com/133)
@@ -88,8 +90,12 @@ D4|1486|장훈이의 높은 선반|py|
 D4|1861|정사각형 방|py|
 D4|1865|동철이의 일 분배|py|
 D4|2819|격자판의 숫자 이어 붙이기|py|
+D4|3347|올림픽 종목 투표|py|
+D4|3349|최솟값으로 이동하기|py|
 D4|3752|가능한 시험 점수|py|
 D4|4366|정식이의 은행업무|py|
+D4|4408|자기방으로 돌아가기|py|
+D4|4613|러시아 국기 같은 깃발|py|
 D4|6109|추억의 2048게임|py|
 
 
