@@ -52,14 +52,17 @@ D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b
 D3 |1206| View 조망권 | py | [티스토리](https://mungto.tistory.com/148) 
 D3 |1208| Flatten | py | [티스토리](https://mungto.tistory.com/149) 
 D3 |1215| 회문1 | py | [티스토리](https://mungto.tistory.com/150) 
-D3 |1216| 회문2 | py | [티스토리] 
-D3 |1220| Magentic | py | 
-D3 |1221| GNS | py | 
-D3 |1225| 암호생성기 | py | 
-D3 |1493| 수의 새로운 연산 | py | 
-D3 |1873| 상호의 배틀필드 | py | 
-D3 |2805| 농작물 수확하기 | py | 
+D3 |1216| 회문2 | py | [티스토리](https://mungto.tistory.com/151) 
+D3 |1220| Magentic | py | [티스토리](https://mungto.tistory.com/152) 
+D3 |1221| GNS | py | [티스토리](https://mungto.tistory.com/153) 
+D3 |1225| 암호생성기 | py | [티스토리](https://mungto.tistory.com/154) 
+D3 |1493| 수의 새로운 연산 | py | [티스토리](https://mungto.tistory.com/155) 
+D3 |1873| 상호의 배틀필드 | py | [티스토리](![image-20200316200431166](C:\Users\ishii_yuuki\AppData\Roaming\Typora\typora-user-images\image-20200316200431166.png)) 
+D3 |2805| 농작물 수확하기 | py | [티스토리](https://mungto.tistory.com/157) 
+D3 |2814| 최장경로 | py |  
+D3 |3260| 두 수의 덧셈 | py |  
 D3 |4047| 영준이의 카드 카운팅 | py | 
+D3 |4522| 세상의 모든 팰린드롬 | py | 
 D3 |4615| 재미있는 오셀로 게임 | py | 
 D3 |4676| 늘어지는 소리 | py | 
 D3 |4751| 다솔이의 다이아몬드 장식 | py | 
@@ -90,12 +93,14 @@ D4|1486|장훈이의 높은 선반|py|
 D4|1861|정사각형 방|py|
 D4|1865|동철이의 일 분배|py|
 D4|2819|격자판의 숫자 이어 붙이기|py|
+D4|3143|가장 빠른 문자열 타이핑|py|
 D4|3347|올림픽 종목 투표|py|
 D4|3349|최솟값으로 이동하기|py|
 D4|3752|가능한 시험 점수|py|
 D4|4366|정식이의 은행업무|py|
 D4|4408|자기방으로 돌아가기|py|
 D4|4613|러시아 국기 같은 깃발|py|
+D4|5432|쇠막대 자르기|py|
 D4|6109|추억의 2048게임|py|
 
 
