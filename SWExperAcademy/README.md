@@ -43,6 +43,8 @@ D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b
  D2   | 4875     | 미로                           | py                                                           | [티스토리](https://mungto.tistory.com/145) 
  D2   | 4880     | 토너먼트 카드게임              | py                                                           | [티스토리](https://mungto.tistory.com/146) 
  D2   | 4881     | 배열 최소 합                   | py                                                           | [티스토리](https://mungto.tistory.com/147) 
+ D2 | 5097 | 회전 | py | [티스토리](https://mungto.tistory.com/164) 
+ D2 | 5102 | 노드의 거리 | py | [티스토리](https://mungto.tistory.com/165) 
 
 
 
@@ -59,25 +61,31 @@ D3 |1225| 암호생성기 | py | [티스토리](https://mungto.tistory.com/154)
 D3 |1493| 수의 새로운 연산 | py | [티스토리](https://mungto.tistory.com/155) 
 D3 |1873| 상호의 배틀필드 | py | [티스토리](![image-20200316200431166](C:\Users\ishii_yuuki\AppData\Roaming\Typora\typora-user-images\image-20200316200431166.png)) 
 D3 |2805| 농작물 수확하기 | py | [티스토리](https://mungto.tistory.com/157) 
-D3 |2806| N-Queen | py |  
-D3 |2814| 최장경로 | py |  
+D3 |2806| N-Queen | py | [티스토리](https://mungto.tistory.com/168) 
+D3 |2814| 최장경로 | py | [티스토리](https://mungto.tistory.com/158) 
 D3 |3260| 두 수의 덧셈 | py |  
-D3 |4047| 영준이의 카드 카운팅 | py | 
-D3 |4522| 세상의 모든 팰린드롬 | py | 
-D3 |4615| 재미있는 오셀로 게임 | py | 
-D3 |4676| 늘어지는 소리 | py | 
-D3 |4751| 다솔이의 다이아몬드 장식 | py | 
+D3 |4047| 영준이의 카드 카운팅 | py | [티스토리](https://mungto.tistory.com/159) 
+D3 |4522| 세상의 모든 팰린드롬 | py | [티스토리](https://mungto.tistory.com/160) 
+D3 |4615| 재미있는 오셀로 게임 | py | [티스토리](https://mungto.tistory.com/161) 
+D3 |4676| 늘어지는 소리 | py | [티스토리](https://mungto.tistory.com/162) 
+D3 |4751| 다솔이의 다이아몬드 장식 | py | [티스토리](https://mungto.tistory.com/167) 
 D3|4831|전기버스|py|[티스토리](https://mungto.tistory.com/128)
 D3|4837|부분집합의 합|py|[티스토리](https://mungto.tistory.com/133)
 D3|4843|특별한 정렬|py|[티스토리](https://mungto.tistory.com/135)
-D3|5215|햄버거 다이어트|py|
-D3|5356|의석이의 세로로 말해요|py|
-D3|5688|세제곱근을 찾아라|py|
-D3|6190|정곤이의 단조 증가하는 수|py|
-D3|6485|삼성시의 버스 노선|py|
-D3|8104|조만들기|cpp|
-D3|8821|적고지우기|cpp|
-D3|8931|제로|cpp|
+D3|5099|피자굽기|py|[티스토리](https://mungto.tistory.com/163)
+D3|5105|미로의 거리|py|[티스토리](https://mungto.tistory.com/166)
+D3|5108|숫자 추가|py|[티스토리]
+D3|5110|수열 합치기|py|[티스토리]
+D3|5120|암호|py|[티스토리]
+D3|5215|햄버거 다이어트|py|[티스토리](https://mungto.tistory.com/170)
+D3|5356|의석이의 세로로 말해요|py|[티스토리](https://mungto.tistory.com/171)
+D3|5688|세제곱근을 찾아라|py|[티스토리](https://mungto.tistory.com/172)
+D3|6190|정곤이의 단조 증가하는 수|py|[티스토리](https://mungto.tistory.com/173)
+D3|6485|삼성시의 버스 노선|py|[티스토리](https://mungto.tistory.com/174)
+D3|8104|조만들기|cpp|[티스토리](https://mungto.tistory.com/175)
+D3|8821|적고지우기|cpp|[티스토리](https://mungto.tistory.com/176)
+D3|8931|제로|cpp|[티스토리](https://mungto.tistory.com/177)
+D3|9317|석찬이의 받아쓰기|cpp|
 
 
 
@@ -103,6 +111,7 @@ D4|3752|가능한 시험 점수|py|
 D4|4366|정식이의 은행업무|py|
 D4|4408|자기방으로 돌아가기|py|
 D4|4613|러시아 국기 같은 깃발|py|
+D4|5122|수열 편집|py|
 D4|5432|쇠막대 자르기|py|
 D4|6109|추억의 2048게임|py|
 
