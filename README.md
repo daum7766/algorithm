@@ -15,13 +15,23 @@
 --------|--------|--------|--------
 1097|바둑알 십자 뒤집기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/97%EB%B2%88)
 1098|설탕과자 뽑기|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/98%EB%B2%88)
-1099|성실한 개미|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/99%EB%B2%88)
+1099|성실한 개미|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/tree/master/99%EB%B2%88)|err
 1476|2차원 배열 빗금 채우기 3-1|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1476.cpp) | [티스토리](https://mungto.tistory.com/60)
 1478|2차원 배열 빗금 채우기 3-3|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1478.cpp) | [티스토리](https://mungto.tistory.com/62)
 1484|2차원 달팽이 채우기 4-1 |[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1484.cpp)|[티스토리](https://mungto.tistory.com/63)
 1486|2차원 달팽이 채우기 4-3 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1486.cpp)|[티스토리](https://mungto.tistory.com/64)
 1493|2차원 누적 합 배열 만들기 5-2 |[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1493.cpp) |[티스토리](https://mungto.tistory.com/65)
 1494|1차원 차이 배열 만들기 5-3 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1494.cpp) | [티스토리](https://mungto.tistory.com/66)
+1495|2차원 차이 배열 만들기 5-4 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1495.cpp) | [티스토리](https://mungto.tistory.com/67)
+1498|여러 개씩 묶어 작은 값 골라 배열 만들기 5-7 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1498.cpp) | [티스토리](https://mungto.tistory.com/68)
+1508|나도 IQ 150 | [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1508.cpp) | [티스토리](https://mungto.tistory.com/80)
+1509|진격 후 결과| [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1509.cpp)|[티스토리](https://mungto.tistory.com/81)
+1510|홀수 마방진| [cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1510.cpp)|[티스토리](https://mungto.tistory.com/82)
+1511|테두리의 합|[cpp](https://github.com/daum7766/CodeUp-basic-Problem/blob/master/%EB%B0%B0%EC%97%B4/1511.cpp) | [티스토리]()
+1512|숫자등고선|[cpp]() | 없음
+1513|지그재그3|[cpp]()| 없음
+1515|생명 게임1 | |
+1520|생명 게임2 | |
 
 ## 2. 정렬
 
