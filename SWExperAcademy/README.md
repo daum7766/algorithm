@@ -45,6 +45,8 @@ D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b
  D2   | 4881     | 배열 최소 합                   | py                                                           | [티스토리](https://mungto.tistory.com/147) 
  D2 | 5097 | 회전 | py | [티스토리](https://mungto.tistory.com/164) 
  D2 | 5102 | 노드의 거리 | py | [티스토리](https://mungto.tistory.com/165) 
+ D2 | 5174 | subtree | py |  
+ D2 | 5178 | 노드의 합 | py |  
 
 
 
