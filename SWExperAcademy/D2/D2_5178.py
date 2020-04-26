@@ -25,5 +25,5 @@ for t in range(int(input())):
         Tree[node] = value
     #재귀를 이용하여 계산시작
     result = dfs(L)
-    #결과값 출력ㄴ
+    #결과값 출력
     print('#{} {}'.format(t+1, result))
