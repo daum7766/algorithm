@@ -24,17 +24,17 @@
 
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|--------- | --------
-Lv1|완주하지 못한선수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98(%ED%95%B4%EC%89%AC)/Lv1_Hash.cpp) | 미작성
-Lv2|전화번호목록|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80(%ED%95%B4%EC%89%ACLv2)/Lv2_Hash1.cpp)  | 미작성
-Lv2|위장|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%9C%84%EC%9E%A5(%ED%95%B4%EC%89%ACLv2)/Lv2_Hash2.cpp) | 미작성
-Lv3|베스트앨범|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%97%98%EB%B2%94(%ED%95%B4%EC%89%ACLv3)/bestAlbum.cpp)  | 미작성
+Lv1|완주하지 못한선수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98(%ED%95%B4%EC%89%AC)/Lv1_Hash.cpp) | [티스토리](https://mungto.tistory.com/193) 
+Lv2|전화번호목록|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%B6%80(%ED%95%B4%EC%89%ACLv2)/Lv2_Hash1.cpp)  | [티스토리](https://mungto.tistory.com/194) 
+Lv2|위장|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EC%9C%84%EC%9E%A5(%ED%95%B4%EC%89%ACLv2)/Lv2_Hash2.cpp) | [티스토리](https://mungto.tistory.com/195) 
+Lv3|베스트앨범|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%95%B4%EC%8B%9C/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%97%98%EB%B2%94(%ED%95%B4%EC%89%ACLv3)/bestAlbum.cpp)  | [티스토리](https://mungto.tistory.com/196) 
 
 ## 2.스택/큐
 
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|--------- | --------
-Lv2|기능개발|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%81%90%2C%EC%8A%A4%ED%83%9D/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C(%ED%81%90%2C%EC%8A%A4%ED%83%9D%20Lv2)/Lv2_Function_Development_Queue.cpp)  | 미작성
-Lv2|프린터|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%81%90%2C%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A6%B0%ED%84%B0(%ED%81%90%2C%EC%8A%A4%ED%83%9D%20Lv2)/Printer.cpp)  | 미작성
+Lv2|기능개발|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%81%90%2C%EC%8A%A4%ED%83%9D/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C(%ED%81%90%2C%EC%8A%A4%ED%83%9D%20Lv2)/Lv2_Function_Development_Queue.cpp)  | [티스토리](https://mungto.tistory.com/197) 
+Lv2|프린터|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%81%90%2C%EC%8A%A4%ED%83%9D/%ED%94%84%EB%A6%B0%ED%84%B0(%ED%81%90%2C%EC%8A%A4%ED%83%9D%20Lv2)/Printer.cpp)  | [티스토리](https://mungto.tistory.com/198) 
 Lv2|탑|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%81%90%2C%EC%8A%A4%ED%83%9D/%ED%83%91(%ED%81%90%2C%EC%8A%A4%ED%83%9D%20Lv2)/Lv2_Top_Stack.cpp)  | [티스토리](https://mungto.tistory.com/2)
 Lv2|다리를 지나는 트럭|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%81%90%2C%EC%8A%A4%ED%83%9D/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD(%ED%81%90%2C%EC%8A%A4%ED%83%9D%20Lv2)/Lv2_Truck_Queue.cpp) | [티스토리](https://mungto.tistory.com/4)
 Lv2|쇠막대기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%81%90%2C%EC%8A%A4%ED%83%9D/%EC%87%A0%EB%A7%89%EB%8C%80%EA%B8%B0(%ED%81%90%2C%EC%8A%A4%ED%83%9D%20Lv2)/Lv2_IlonStick_stack.cpp) | [티스토리](https://mungto.tistory.com/5)
@@ -100,7 +100,7 @@ Lv3|여행경로| [cpp](https://github.com/daum7766/ProgrammersProblem/blob/mast
 Lv3|예산|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%98%88%EC%82%B0(%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%20Lv3)/Lv3_Budget.cpp) | [티스토리](https://mungto.tistory.com/55)
 Lv3|입국심사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC(%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%20Lv3)/Lv3_BinarySerch_Immigration.cpp) | [티스토리](https://mungto.tistory.com/56)
 Lv4|징검다리|미구현 | 미작성
- 
+
 ## 10.그래프
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|--------- | --------
