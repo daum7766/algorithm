@@ -45,8 +45,10 @@ D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b
  D2   | 4881     | 배열 최소 합                   | py                                                           | [티스토리](https://mungto.tistory.com/147) 
  D2 | 5097 | 회전 | py | [티스토리](https://mungto.tistory.com/164) 
  D2 | 5102 | 노드의 거리 | py | [티스토리](https://mungto.tistory.com/165) 
- D2 | 5174 | subtree | py |  
- D2 | 5178 | 노드의 합 | py |  
+ D2 | 5174 | subtree | py | [티스토리](https://mungto.tistory.com/180) 
+ D2 | 5178 | 노드의 합 | py | [티스토리](https://mungto.tistory.com/181) 
+ D2 | 5185 | 이진수 | py |  
+ D2 | 5186 | 이진수2 | py | 
 
 
 
@@ -60,6 +62,7 @@ D3 |1216| 회문2 | py | [티스토리](https://mungto.tistory.com/151)
 D3 |1220| Magentic | py | [티스토리](https://mungto.tistory.com/152) 
 D3 |1221| GNS | py | [티스토리](https://mungto.tistory.com/153) 
 D3 |1225| 암호생성기 | py | [티스토리](https://mungto.tistory.com/154) 
+D3 |1240| 단순 2진 암호코드 | py |  
 D3 |1493| 수의 새로운 연산 | py | [티스토리](https://mungto.tistory.com/155) 
 D3 |1873| 상호의 배틀필드 | py | [티스토리](![image-20200316200431166](C:\Users\ishii_yuuki\AppData\Roaming\Typora\typora-user-images\image-20200316200431166.png)) 
 D3 |2805| 농작물 수확하기 | py | [티스토리](https://mungto.tistory.com/157) 
@@ -76,7 +79,7 @@ D3|4837|부분집합의 합|py|[티스토리](https://mungto.tistory.com/133)
 D3|4843|특별한 정렬|py|[티스토리](https://mungto.tistory.com/135)
 D3|5099|피자굽기|py|[티스토리](https://mungto.tistory.com/163)
 D3|5105|미로의 거리|py|[티스토리](https://mungto.tistory.com/166)
-D3|5108|숫자 추가|py|[티스토리]
+D3|5108|숫자 추가|py|[티스토리](https://mungto.tistory.com/182)
 D3|5110|수열 합치기|py|[티스토리]
 D3|5120|암호|py|[티스토리]
 D3|5215|햄버거 다이어트|py|[티스토리](https://mungto.tistory.com/170)
@@ -113,7 +116,7 @@ D4|3752|가능한 시험 점수|py|
 D4|4366|정식이의 은행업무|py|
 D4|4408|자기방으로 돌아가기|py|
 D4|4613|러시아 국기 같은 깃발|py|
-D4|5122|수열 편집|py|
+D4|5122|수열 편집|py|[티스토리](https://mungto.tistory.com/185)
 D4|5432|쇠막대 자르기|py|
 D4|6109|추억의 2048게임|py|
 
