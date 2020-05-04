@@ -13,10 +13,11 @@ def solution(s):
     s = sorted(s, key=len)
     for i in s:
         for j in i:
-            if j not in answer:
+            if dic.get(j, -1) == -1:
                 answer.append(j)
+                dic[j] = 1
     return answer
 
 
 s = '{{1,2,3},{2,1},{1,2,4,3},{2}}'
-solution(s)
+print(solution(s))
