@@ -132,12 +132,13 @@ Lv2 | N개의 최소공배수 | [cpp](https://github.com/daum7766/ProgrammersPro
 Lv1|2018 다트게임|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_DartGame.cpp) | [티스토리](https://mungto.tistory.com/10)
 Lv1|2018 비밀지도|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_SecretMap.cpp) | 미작성
 Lv1|2019 실패율|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv1_Failure%20rate.cpp) | [티스토리](https://mungto.tistory.com/38)
-Lv1|2019겨울인턴십 크레인게임|py | 
+Lv1|2019 겨울 인턴십 크레인게임|py | [티스토리](https://mungto.tistory.com/199) 
 Lv2|2019 후보키|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_CandidateKey.cpp) | [티스토리](https://mungto.tistory.com/11)
 Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp) | 미작성
-Lv2|튜플|py | 
-Lv3|불량이용자|py | 
+Lv2|2019 겨울 인턴십튜플|py | [티스토리](https://mungto.tistory.com/200) 
+Lv3|2019 겨울 인턴십불량이용자|py | [티스토리](https://mungto.tistory.com/201) 
 Lv4|2019 무지의 먹방라이브|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv4_eatingLive.cpp) | [티스토리](https://mungto.tistory.com/9)
+Lv4|2019 겨울 인턴십 호텔 방 배정|py | [티스토리](https://mungto.tistory.com/202) 
 Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv1_String_compression.cpp) | [티스토리](https://mungto.tistory.com/12)
 Lv2|2020 괄호변환 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv2_change_bracket.cpp) | [티스토리](https://mungto.tistory.com/42)
 
