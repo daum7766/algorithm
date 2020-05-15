@@ -113,9 +113,9 @@ Lv5|방의 개수|미구현 | 미작성
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|---------|--------
 Lv1|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(Lv1)/Lv1_PrimeNumber.cpp) | [티스토리](https://mungto.tistory.com/69)
-Lv1|최대공약수와 최소공배수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%2C%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98(Lv1)/Lv1_gcd_lcm.cpp) | 미작성
-Lv2|124나라의 숫자|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90(Lv2)/124Number.cpp) | 미작성
-Lv2|소수만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) | 미작성
+Lv1|최대공약수와 최소공배수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%2C%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98(Lv1)/Lv1_gcd_lcm.cpp) | [티스토리](https://mungto.tistory.com/203) 
+Lv2|124나라의 숫자|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90(Lv2)/124Number.cpp) | [티스토리](https://mungto.tistory.com/206) 
+      |                         |                                                              |                                            
 Lv2|최솟값 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) | 미작성
 Lv2|피보나치 수열|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4(Lv2)/Fibonacci(Lv2).cpp) | 미작성
 Lv2|숫자의 표현 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84(Lv2)/Lv2_ExpressOfNumber.cpp) | [티스토리](https://mungto.tistory.com/13)
@@ -130,13 +130,13 @@ Lv2 | N개의 최소공배수 | [cpp](https://github.com/daum7766/ProgrammersPro
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|---------|--------
 Lv1|2018 다트게임|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_DartGame.cpp) | [티스토리](https://mungto.tistory.com/10)
-Lv1|2018 비밀지도|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_SecretMap.cpp) | 미작성
+Lv1|2018 비밀지도|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_SecretMap.cpp) | [티스토리](https://mungto.tistory.com/71) 
 Lv1|2019 실패율|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv1_Failure%20rate.cpp) | [티스토리](https://mungto.tistory.com/38)
 Lv1|2019 겨울 인턴십 크레인게임|py | [티스토리](https://mungto.tistory.com/199) 
 Lv2|2019 후보키|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_CandidateKey.cpp) | [티스토리](https://mungto.tistory.com/11)
-Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp) | 미작성
-Lv2|2019 겨울 인턴십튜플|py | [티스토리](https://mungto.tistory.com/200) 
-Lv3|2019 겨울 인턴십불량이용자|py | [티스토리](https://mungto.tistory.com/201) 
+Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp) | [티스토리](https://mungto.tistory.com/200) 
+Lv2|2019 겨울 인턴십 튜플|py | [티스토리](https://mungto.tistory.com/200) 
+Lv3|2019 겨울 인턴십 불량이용자|py | [티스토리](https://mungto.tistory.com/201) 
 Lv4|2019 무지의 먹방라이브|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv4_eatingLive.cpp) | [티스토리](https://mungto.tistory.com/9)
 Lv4|2019 겨울 인턴십 호텔 방 배정|py | [티스토리](https://mungto.tistory.com/202) 
 Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv1_String_compression.cpp) | [티스토리](https://mungto.tistory.com/12)
@@ -146,11 +146,13 @@ Lv2|2020 괄호변환 | [cpp](https://github.com/daum7766/ProgrammersProblem/blo
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|--------- | --------
 Lv2|스킬트리|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/2018%EC%84%9C%EB%A8%B8%2C%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9/Lv2_SkillTree.cpp) | [티스토리](https://mungto.tistory.com/7)
-Lv2 | 끝말잇기 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/2018%EC%84%9C%EB%A8%B8%2C%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9/Lv2_word_chain.cpp) | 미작성
+Lv2 | 영어 끝말잇기 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/2018%EC%84%9C%EB%A8%B8%2C%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9/Lv2_word_chain.cpp) | [티스토리](https://mungto.tistory.com/204) 
+Lv2 | 소수만들기 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) | [티스토리](https://mungto.tistory.com/207) 
 
 
 ## 14.팁스다운
 레벨 | 문제이름 | 주소 | 문제풀이
 --------|--------|--------- | -------- 
 Lv2 | 짝지어 제거하기 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%8C%81%EC%8A%A4%EB%8B%A4%EC%9A%B4/2017%ED%8C%81%EC%8A%A4%EB%8B%A4%EC%9A%B4/Lv2_remove_pair.cpp) | [티스토리](https://mungto.tistory.com/37)
-Lv2 | 예상대진표 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%8C%81%EC%8A%A4%EB%8B%A4%EC%9A%B4/2017%ED%8C%81%EC%8A%A4%EB%8B%A4%EC%9A%B4/Lv2_tournamnet.cpp) | 미작성
+Lv2 | 예상대진표 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%ED%8C%81%EC%8A%A4%EB%8B%A4%EC%9A%B4/2017%ED%8C%81%EC%8A%A4%EB%8B%A4%EC%9A%B4/Lv2_tournamnet.cpp) | [티스토리](https://mungto.tistory.com/205) 
+
