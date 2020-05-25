@@ -46,6 +46,7 @@ D2|2001|파리퇴치|[cpp](https://github.com/daum7766/SWExpertAcademy/commit/1b
  D2 | 5097 | 회전 | py | [티스토리](https://mungto.tistory.com/164) 
  D2 | 5102 | 노드의 거리 | py | [티스토리](https://mungto.tistory.com/165) 
  D2 | 5174 | subtree | py | [티스토리](https://mungto.tistory.com/180) 
+ D2 | 5176 | 이진탐색 | py |  
  D2 | 5178 | 노드의 합 | py | [티스토리](https://mungto.tistory.com/181) 
  D2 | 5185 | 이진수 | py |  
  D2 | 5186 | 이진수2 | py | 
@@ -63,6 +64,7 @@ D3 |1220| Magentic | py | [티스토리](https://mungto.tistory.com/152)
 D3 |1221| GNS | py | [티스토리](https://mungto.tistory.com/153) 
 D3 |1225| 암호생성기 | py | [티스토리](https://mungto.tistory.com/154) 
 D3 |1240| 단순 2진 암호코드 | py |  
+D3 |1244| 최대상금 | py | 
 D3 |1493| 수의 새로운 연산 | py | [티스토리](https://mungto.tistory.com/155) 
 D3 |1873| 상호의 배틀필드 | py | [티스토리](![image-20200316200431166](C:\Users\ishii_yuuki\AppData\Roaming\Typora\typora-user-images\image-20200316200431166.png)) 
 D3 |2805| 농작물 수확하기 | py | [티스토리](https://mungto.tistory.com/157) 
@@ -82,7 +84,15 @@ D3|5105|미로의 거리|py|[티스토리](https://mungto.tistory.com/166)
 D3|5108|숫자 추가|py|[티스토리](https://mungto.tistory.com/182)
 D3|5110|수열 합치기|py|[티스토리]
 D3|5120|암호|py|[티스토리]
+D3|5201|컨테이너 운반|py|
+D3|5202|화물도크|py|
+D3|5203|베이비진게임|py|
+D3|5207|이분탐색|py|
+D3|5208|전기버스2|py|
+D3|5209|최소생산비용|py|
 D3|5215|햄버거 다이어트|py|[티스토리](https://mungto.tistory.com/170)
+D3|5248|그룹 나누기|py|
+D3|5250|최소비용|py|
 D3|5356|의석이의 세로로 말해요|py|[티스토리](https://mungto.tistory.com/171)
 D3|5688|세제곱근을 찾아라|py|[티스토리](https://mungto.tistory.com/172)
 D3|6190|정곤이의 단조 증가하는 수|py|[티스토리](https://mungto.tistory.com/173)
@@ -117,6 +127,9 @@ D4|4366|정식이의 은행업무|py|
 D4|4408|자기방으로 돌아가기|py|
 D4|4613|러시아 국기 같은 깃발|py|
 D4|5122|수열 편집|py|[티스토리](https://mungto.tistory.com/185)
+D4|5247|연산|py|
+D4|5249|최소 신장 트리|py|
+D4|5251|최소 이동 거리|py|
 D4|5432|쇠막대 자르기|py|
 D4|6109|추억의 2048게임|py|
 
@@ -126,8 +139,10 @@ D4|6109|추억의 2048게임|py|
 
 레벨 |문제번호| 문제이름 | 주소 | 문제풀이
 --------|--------|--------|--------- | --------
-D5|1259|금속막대||
-D5|1247|최적경로||
+D5 |1242| 암호코드 스캔 | py | 
+D5 |1247| 최적경로 | py | 
+D5 |1248| 공통조상 | py | 
+D5|1259|금속막대|py|
 
 
 
@@ -135,7 +150,7 @@ D5|1247|최적경로||
 
 레벨 |문제번호| 문제이름 | 주소 | 문제풀이
 --------|--------|--------|--------- | --------
-D6|1267|작업순서||
+D6|1267|작업순서|py|
 
 
 
