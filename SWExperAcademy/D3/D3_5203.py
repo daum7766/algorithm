@@ -37,7 +37,7 @@ for t in range(int(input())):
         else:
             #카드얻은거 표시해주고
             player1[card_list[i]] += 1
-            체크
+            # 체크
             card_check(1, card_list[i])
         #우승자가 정해졌다면 반복문 중지
         if answer: break
