@@ -1,7 +1,7 @@
 #D4 4613 러시아 국기 같은 깃발
 targets = ['W', 'B', 'R']
 
-def bfs(idx, color, _sum):
+def dfs(idx, color, _sum):
     global result
     #가치지기
     if result <= _sum : return
@@ -18,7 +18,7 @@ def bfs(idx, color, _sum):
         for j in Flag[idx]:
             #색상이 다른것들 카운트
             if j != targets[i]: temp += 1
-        bfs(idx+1, i, _sum + temp)
+        dfs(idx+1, i, _sum + temp)
 
 #제일 윗줄과 아랫줄 체크하기
 def init():
@@ -35,7 +35,7 @@ for t in range(1, int(input()) + 1):
     #최종 결과값
     result = 987654
     #갯수 체크하기
-    bfs(1, 0, 0)
+    dfs(1, 0, 0)
     #제일 위와 아래줄 체크하기
     init()
     print('#{} {}'.format(t, result))
