@@ -1,8 +1,5 @@
 #D4 6109 추억의 2048게임
 
-import sys
-
-sys.stdin = open('input.txt', 'r')
 #up 혹은 down이면 좌표를 바꿔준다.
 def swap(i, j):
     global command
