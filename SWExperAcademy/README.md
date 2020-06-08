@@ -108,32 +108,32 @@ D3|9317|석찬이의 받아쓰기|cpp|[티스토리](https://mungto.tistory.com/
 
 레벨 |문제번호| 문제이름 | 주소 | 문제풀이
 --------|--------|--------|--------- | --------
-D4|1210|Ladder1|py|[티스토리]
-D4|1211|Ladder2|py|[티스토리]
-D4|1224|계산기3|py|[티스토리]
-D4|1226|미로1|py|[티스토리]
-D4|1238|Contact|py|[티스토리]
+D4|1210|Ladder1|py|[티스토리](https://mungto.tistory.com/232)
+D4|1211|Ladder2|py|[티스토리](https://mungto.tistory.com/233)
+D4|1224|계산기3|py|[티스토리](https://mungto.tistory.com/234)
+D4|1226|미로1|py|[티스토리](https://mungto.tistory.com/235)
+D4|1238|Contact|py|[티스토리](https://mungto.tistory.com/236)
 D4|1249|보급로|py|[티스토리](https://mungto.tistory.com/224)
 D4|1251|하나로|py|[티스토리](https://mungto.tistory.com/225)
-D4|1258|행렬찾기|py|
+D4|1258|행렬찾기|py|[티스토리](https://mungto.tistory.com/237)
 D4|1486|장훈이의 높은 선반|py|[티스토리](https://mungto.tistory.com/226)
-D4|1861|정사각형 방|py|
-D4|1865|동철이의 일 분배|py|
-D4|2819|격자판의 숫자 이어 붙이기|py|
-D4|3143|가장 빠른 문자열 타이핑|py|
-D4|3347|올림픽 종목 투표|py|
-D4|3349|최솟값으로 이동하기|py|
-D4|3378|스타일리쉬 들여쓰기|py|
-D4|3752|가능한 시험 점수|py|
-D4|4366|정식이의 은행업무|py|
-D4|4408|자기방으로 돌아가기|py|
-D4|4613|러시아 국기 같은 깃발|py|
+D4|1861|정사각형 방|py|[티스토리](https://mungto.tistory.com/238)
+D4|1865|동철이의 일 분배|py|[티스토리](https://mungto.tistory.com/239)
+D4|2819|격자판의 숫자 이어 붙이기|py|[티스토리](https://mungto.tistory.com/240)
+D4|3143|가장 빠른 문자열 타이핑|py|[티스토리](https://mungto.tistory.com/241)
+D4|3347|올림픽 종목 투표|py|[티스토리](https://mungto.tistory.com/242)
+D4|3349|최솟값으로 이동하기|py|[티스토리](https://mungto.tistory.com/243)
+D4|3378|스타일리쉬 들여쓰기|py|못품
+D4|3752|가능한 시험 점수|py|[티스토리](https://mungto.tistory.com/244)
+D4|4366|정식이의 은행업무|py|[티스토리](https://mungto.tistory.com/252)
+D4|4408|자기방으로 돌아가기|py|[티스토리](https://mungto.tistory.com/245)
+D4|4613|러시아 국기 같은 깃발|py|[티스토리](https://mungto.tistory.com/246)
 D4|5122|수열 편집|py|[티스토리](https://mungto.tistory.com/185)
-D4|5247|연산|py|
-D4|5249|최소 신장 트리|py|
-D4|5251|최소 이동 거리|py|
-D4|5432|쇠막대 자르기|py|
-D4|6109|추억의 2048게임|py|
+D4|5247|연산|py|[티스토리](https://mungto.tistory.com/247)
+D4|5249|최소 신장 트리|py|[티스토리](https://mungto.tistory.com/248)
+D4|5251|최소 이동 거리|py|[티스토리](https://mungto.tistory.com/249)
+D4|5432|쇠막대 자르기|py|[티스토리](https://mungto.tistory.com/250)
+D4|6109|추억의 2048게임|py|[티스토리](https://mungto.tistory.com/251)
 
 
 
@@ -142,9 +142,9 @@ D4|6109|추억의 2048게임|py|
 레벨 |문제번호| 문제이름 | 주소 | 문제풀이
 --------|--------|--------|--------- | --------
 D5 |1242| 암호코드 스캔 | py | 
-D5 |1247| 최적경로 | py | [티스토리] 
-D5 |1248| 공통조상 | py | [티스토리] 
-D5|1259|금속막대|py|[티스토리]
+D5 |1247| 최적경로 | py | [티스토리](https://mungto.tistory.com/229) 
+D5 |1248| 공통조상 | py | [티스토리](https://mungto.tistory.com/230) 
+D5|1259|금속막대|py|[티스토리](https://mungto.tistory.com/231)
 D5|5521|상원이의 생일파티|py|[티스토리](https://mungto.tistory.com/227)
 
 
@@ -153,7 +153,7 @@ D5|5521|상원이의 생일파티|py|[티스토리](https://mungto.tistory.com/2
 
 레벨 |문제번호| 문제이름 | 주소 | 문제풀이
 --------|--------|--------|--------- | --------
-D6|1267|작업순서|py|[티스토리]
+D6|1267|작업순서|py|[티스토리](https://mungto.tistory.com/228)
 
 
 
