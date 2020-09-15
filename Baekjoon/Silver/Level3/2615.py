@@ -1,4 +1,4 @@
-# Silver LV3 오목
+# silver 3 오목
 
 move_list = [(0, 1), (1, 0), (1, 1), (-1, 1)]
 
