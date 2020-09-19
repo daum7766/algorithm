@@ -1,2 +1,4 @@
 # Algorithm_solving_problem
-알고리즘 문제풀이 정리
+
+
+각 폴더에 들어가시면 문제별 정리가 되어있습니다.
