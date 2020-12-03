@@ -1,25 +1,22 @@
 #D2 4871 그래프 경로
 
-def dfs(node):
-    visited[node] = False
-    for i in graph[node]:
-        if visited[i]:
-            dfs(i)
+def dfs(node_index, visited, nodes):
+    visited[node_index] = 1
+    for node in nodes[node_index]:
+        if visited[node] != 1:
+            dfs(node, visited, nodes)
 
-T = int(input())
-for t in range(1, T+1):
+
+for t in range(int(input())):
     V, E = map(int, input().split())
-    graph = [[] for _ in range(V+1)]
-    visited = [True for _ in range(V+1)]
-    for i in range(E):
-        a, b = map(int, input().split())
-        #단방향 그래프이므로 하나만 추가한다.
-        graph[a].append(b)
-    start, end = map(int, input().split())
-    #시작노드를 출발점으로 dfs를 시작한다.
-    dfs(start)
-    result = 1
-    #끝나는 노드를 못갔다면 0으로 결과를 바꾼다.
-    if visited[end]:
-        result = 0
-    print("#{} {}".format(t, result))
+    nodes = [ [] for _ in range(V+1) ]
+    for _ in range(E):
+        start, end = map(int, input().split())
+        nodes[start].append(end)
+    S, G = map(int, input().split())
+    visited = [ 0 for _ in range(V+1)]
+    dfs(S, visited, nodes)
+    answer = 0
+    if visited[G] == 1:
+        answer = 1
+    print('#{} {}'.format(t+1, answer))

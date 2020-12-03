@@ -1,12 +1,17 @@
-#D2 2005 파스칼삼각형
-T = int(input())
-for t in range(1, T+1):
-    length = int(input())
-    pascal = [[0 for i in range(length+1)] for k in range(length+1)]
-    pascal[0][1] = 1
-    for i in range(1, length+1):
-        for j in range(1, length+1):
-            pascal[i][j] = pascal[i-1][j] + pascal[i-1][j-1]
-    print("#{}".format(t))
-    for i in range(0, length):
-        print(*pascal[i][1:2+i])
+pascal_triangle = [[0 for _ in range(10)] for _ in range(10)]
+for i in range(10):
+    pascal_triangle[i][0] = 1
+
+
+for y in range(1, 10):
+    for x in range(1, 10):
+        pascal_triangle[y][x] = pascal_triangle[y-1][x] + pascal_triangle[y-1][x-1]
+
+
+for t in range(int(input())):
+    N = int(input())
+    print('#{}'.format(t+1))
+    for y in range(N):
+        for x in range(y+1):
+            print(pascal_triangle[y][x], end=' ')
+        print()
