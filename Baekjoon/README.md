@@ -38,11 +38,11 @@
 | 10172    | 5    | 개                     | Python | [주소](https://www.acmicpc.net/problem/10172) | [풀이](https://mungto.tistory.com/340) |
 | 10250    | 3    | ACM호텔                | Python | [주소](https://www.acmicpc.net/problem/10250) | [풀이](https://mungto.tistory.com/341) |
 | 10809    | 2    | 알파벳 찾기            | Python | [주소](https://www.acmicpc.net/problem/10809) | [풀이](https://mungto.tistory.com/342) |
-| 10951    | 3    | A+B - 4                | Python | [주소](https://www.acmicpc.net/problem/10951) |                                        |
-| 10953    | 2    | A+B - 6                | JAVA   | [주소](https://www.acmicpc.net/problem/10953) |                                        |
-| 11050    | 1    | 이항계수               | Python | [주소](https://www.acmicpc.net/problem/11050) |                                        |
-| 15740    | 5    | A + B - 9              | JAVA   | [주소](https://www.acmicpc.net/problem/15740) |                                        |
-| 15829    | 2    | Hashing                | Python | [주소](https://www.acmicpc.net/problem/15829) |                                        |
+| 10951    | 3    | A+B - 4                | Python | [주소](https://www.acmicpc.net/problem/10951) | [풀이](https://mungto.tistory.com/343) |
+| 10953    | 2    | A+B - 6                | JAVA   | [주소](https://www.acmicpc.net/problem/10953) | [풀이](https://mungto.tistory.com/344) |
+| 11050    | 1    | 이항계수               | Python | [주소](https://www.acmicpc.net/problem/11050) | [풀이](https://mungto.tistory.com/345) |
+| 15740    | 5    | A + B - 9              | JAVA   | [주소](https://www.acmicpc.net/problem/15740) | [풀이](https://mungto.tistory.com/347) |
+| 15829    | 2    | Hashing                | Python | [주소](https://www.acmicpc.net/problem/15829) | [풀이](https://mungto.tistory.com/348) |
 
 
 
@@ -120,6 +120,7 @@
 
 | 문제번호 | 등급 | 문제이름         | 언어 | 주소 | 문제풀이 |
 | -------- | ---- | ---------------- | ---- | ---- | -------- |
+| 1753     | 5    | 최단경로         | JAVA |      |          |
 | 1806     | 3    | 부분합           |      |      |          |
 | 2174     | 5    | 로봇 시뮬레이션  |      |      |          |
 | 7662     | 5    | 이중 우선순위 큐 |      |      |          |
