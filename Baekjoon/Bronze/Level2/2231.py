@@ -1,7 +1,6 @@
 # bronze 2 분해합
 
 N = int(input())
-case = {}
 answer = 0
 for i in range(N//2, N):
     str_num = str(i)
