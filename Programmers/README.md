@@ -138,9 +138,9 @@ Lv2|2019 후보키|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/mas
 Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp) | [티스토리](https://mungto.tistory.com/200) 
 Lv2|2019 겨울 인턴십 튜플|py | [티스토리](https://mungto.tistory.com/200) 
 Lv2|2020 인턴십 수식 최대화|py | [티스토리](https://mungto.tistory.com/325) 
-Lv3|2019 겨울 인턴십 불량이용자|py | [티스토리](https://mungto.tistory.com/201) 
+Lv3|2019 겨울 인턴십 불량이용자|py, Java | [티스토리](https://mungto.tistory.com/201) 
 Lv3|2020 인턴십보석쇼핑|py, Java |  
-Lv3|2020 블라인드|Java |  
+Lv3|2020| |  
 Lv4|2019 무지의 먹방라이브|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv4_eatingLive.cpp) | [티스토리](https://mungto.tistory.com/9)
 Lv4|2019 겨울 인턴십 호텔 방 배정|py | [티스토리](https://mungto.tistory.com/202) 
 Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv1_String_compression.cpp), py | [티스토리](https://mungto.tistory.com/12)
