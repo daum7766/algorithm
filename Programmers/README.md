@@ -133,18 +133,18 @@ Lv1|2018 다트게임|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/
 Lv1|2018 비밀지도|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_SecretMap.cpp) | [티스토리](https://mungto.tistory.com/71) 
 Lv1|2019 실패율|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv1_Failure%20rate.cpp) | [티스토리](https://mungto.tistory.com/38)
 Lv1|2019 겨울 인턴십 크레인게임|py | [티스토리](https://mungto.tistory.com/199) 
-Lv1|2020 인턴십 키패드 누르기|py | [티스토리](https://mungto.tistory.com/324) 
 Lv2|2019 후보키|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_CandidateKey.cpp) | [티스토리](https://mungto.tistory.com/11)
 Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp) | [티스토리](https://mungto.tistory.com/200) 
 Lv2|2019 겨울 인턴십 튜플|py | [티스토리](https://mungto.tistory.com/200) 
-Lv2|2020 인턴십 수식 최대화|py | [티스토리](https://mungto.tistory.com/325) 
 Lv3|2019 겨울 인턴십 불량이용자|py, Java | [티스토리](https://mungto.tistory.com/201) 
-Lv3|2020 인턴십보석쇼핑|py, Java |  
-Lv3|2020| |  
 Lv4|2019 무지의 먹방라이브|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv4_eatingLive.cpp) | [티스토리](https://mungto.tistory.com/9)
 Lv4|2019 겨울 인턴십 호텔 방 배정|py | [티스토리](https://mungto.tistory.com/202) 
 Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv1_String_compression.cpp), py | [티스토리](https://mungto.tistory.com/12)
 Lv2|2020 괄호변환 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv2_change_bracket.cpp) | [티스토리](https://mungto.tistory.com/42)
+Lv1|2020 인턴십 키패드 누르기 | py | [티스토리](https://mungto.tistory.com/324) 
+Lv2|2020 인턴십 수식 최대화 | py | [티스토리](https://mungto.tistory.com/325) 
+Lv3|2020 인턴십보석쇼핑 | py, Java | 
+Lv1|2021 신규 아이디 추천 | Java | 
 
 ## 13.윈터/서머 코딩
 레벨 | 문제이름 | 주소 | 문제풀이
