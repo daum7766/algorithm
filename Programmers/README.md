@@ -181,4 +181,5 @@ Lv2 | 예상대진표 | [cpp](https://github.com/daum7766/ProgrammersProblem/blo
 | Lv1  | 내적               | Java |          |
 | Lv1  | 약수의 개수와 덧셈 | Java |          |
 | Lv1  | 3진법 뒤집기       | Java |          |
+| Lv1  | 두개뽑아서더하기   | Java |          |
 
