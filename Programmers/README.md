@@ -18,6 +18,9 @@
 카카오 블라인드 문제 | [링크](https://github.com/daum7766/ProgrammersProblem#12%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 윈터/서머코딩 | [링크](https://github.com/daum7766/ProgrammersProblem#13%EC%9C%88%ED%84%B0%EC%84%9C%EB%A8%B8-%EC%BD%94%EB%94%A9)
 팁스다운 | [링크](https://github.com/daum7766/ProgrammersProblem#14%EC%9C%88%ED%84%B0%EC%84%9C%EB%A8%B8-%EC%BD%94%EB%94%A9)
+DevMaching | 
+월간 코드 챌린지 | 
+위클리 챌린지 | 
 
 
 ## 1.해시
@@ -182,4 +185,13 @@ Lv2 | 예상대진표 | [cpp](https://github.com/daum7766/ProgrammersProblem/blo
 | Lv1  | 약수의 개수와 덧셈 | Java |          |
 | Lv1  | 3진법 뒤집기       | Java |          |
 | Lv1  | 두개뽑아서더하기   | Java |          |
+
+
+
+## 17. 위클리 챌린지
+
+| 레벨 | 문제이름             | 주소 | 문제풀이 |
+| ---- | -------------------- | ---- | -------- |
+| Lv1  | 부족한 금액 계산하기 | Java |          |
+|      |                      |      |          |
 
