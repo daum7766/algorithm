@@ -193,5 +193,5 @@ Lv2 | 예상대진표 | [cpp](https://github.com/daum7766/ProgrammersProblem/blo
 | 레벨 | 문제이름             | 주소 | 문제풀이 |
 | ---- | -------------------- | ---- | -------- |
 | Lv1  | 부족한 금액 계산하기 | Java |          |
-|      |                      |      |          |
+| Lv1  | 상호평가             | Java |          |
 
