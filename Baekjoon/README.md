@@ -156,6 +156,7 @@
 | 5430     | 5    | AC               | Java   |                                      |
 | 7662     | 5    | 이중 우선순위 큐 | Kotlin | https://www.acmicpc.net/problem/7662 |
 | 9019     | 5    | DSLR             | Java   |                                      |
+| 9663     | 5    | N-Quuen          | Kotlin | https://www.acmicpc.net/problem/9663 |
 | 10026    | 5    | 적록색약         | Java   |                                      |
 | 14500    | 5    | 테트로미노       | Java   |                                      |
 | 16236    | 4    | 아기상어         | Java   |                                      |
