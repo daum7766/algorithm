@@ -117,8 +117,7 @@ Lv5|방의 개수|미구현
 --------|--------|---------
 Lv1|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(Lv1)/Lv1_PrimeNumber.cpp) 
 Lv1|최대공약수와 최소공배수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%2C%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98(Lv1)/Lv1_gcd_lcm.cpp) 
-Lv2|124나라의 숫자|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90(Lv2)/124Number.cpp) 
-      |                         |                                                              |                                            
+Lv2|124나라의 숫자|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90(Lv2)/124Number.cpp)                            
 Lv2|최솟값 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) | 미작성
 Lv2|피보나치 수열|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4(Lv2)/Fibonacci(Lv2).cpp) | 미작성
 Lv2|숫자의 표현 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84(Lv2)/Lv2_ExpressOfNumber.cpp) | [티스토리](https://mungto.tistory.com/13)
@@ -184,14 +183,14 @@ Lv2 | 예상대진표 | [cpp](https://github.com/daum7766/ProgrammersProblem/blo
 
 ## 16. 월간 코드 챌린지
 
-| 레벨 | 문제이름                  | 주소   |
-| ---- | ------------------------- | ------ |
-| Lv1  | 음양 더하기               | Java   |
-| Lv1  | 내적                      | Java   |
-| Lv1  | 약수의 개수와 덧셈        | Java   |
-| Lv1  | 3진법 뒤집기              | Java   |
-| Lv1  | 두개뽑아서더하기          | Java   |
-| Lv1  | 나머지가 1이 되는 수 찾기 | kotlin |
+| 레벨 | 문제이름                  | 주소         |
+| ---- | ------------------------- | ------------ |
+| Lv1  | 음양 더하기               | Java, kotlin |
+| Lv1  | 내적                      | Java         |
+| Lv1  | 약수의 개수와 덧셈        | Java         |
+| Lv1  | 3진법 뒤집기              | Java         |
+| Lv1  | 두개뽑아서더하기          | Java         |
+| Lv1  | 나머지가 1이 되는 수 찾기 | kotlin       |
 
 
 
