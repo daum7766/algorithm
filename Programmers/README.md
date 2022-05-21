@@ -5,22 +5,22 @@
 타입 | 링크
 --------|--------
 해시 | [링크](#1해시) 
-스택/큐 | [링크](https://github.com/daum7766/ProgrammersProblem#2%EC%8A%A4%ED%83%9D%ED%81%90)
-힙 | [링크](https://github.com/daum7766/ProgrammersProblem#3%ED%9E%99heap)
-정렬 | [링크](https://github.com/daum7766/ProgrammersProblem#4%EC%A0%95%EB%A0%AC)
-완전탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#5%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
-탐욕법 | [링크](https://github.com/daum7766/ProgrammersProblem#6%ED%83%90%EC%9A%95%EB%B2%95greedy)
-동적계획법 | [링크](https://github.com/daum7766/ProgrammersProblem#7%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95dynamic-programming)
-깊이/너비 우선 탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#8%EA%B9%8A%EC%9D%B4%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89dfsbfs)
-이분탐색 | [링크](https://github.com/daum7766/ProgrammersProblem#9%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89)
-그래프 | [링크](https://github.com/daum7766/ProgrammersProblem#10%EA%B7%B8%EB%9E%98%ED%94%84)
-기타문제 | [링크](https://github.com/daum7766/ProgrammersProblem/blob/master/README.md#11%EA%B8%B0%ED%83%80)
-카카오 블라인드 문제 | [링크](https://github.com/daum7766/ProgrammersProblem#12%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8)
-윈터/서머코딩 | [링크](https://github.com/daum7766/ProgrammersProblem#13%EC%9C%88%ED%84%B0%EC%84%9C%EB%A8%B8-%EC%BD%94%EB%94%A9)
-팁스다운 | [링크](https://github.com/daum7766/ProgrammersProblem#14%EC%9C%88%ED%84%B0%EC%84%9C%EB%A8%B8-%EC%BD%94%EB%94%A9)
-DevMaching |
-월간 코드 챌린지 |
-위클리 챌린지 |
+스택/큐 | [링크](#2스택큐) 
+힙 | [링크](#3힙heap) 
+정렬 | [링크](#4정렬) 
+완전탐색 | [링크](#5완전탐색) 
+탐욕법 | [링크](#6탐욕법greedy) 
+동적계획법 | [링크](#7동적계획법dynamic-programming) 
+깊이/너비 우선 탐색 | [링크](#8깊이너비-우선-탐색dfsbfs) 
+이분탐색 | [링크](#9이분탐색) 
+그래프 | [링크](#10그래프) 
+기타문제 | [링크](#11기타) 
+카카오 블라인드 문제 | [링크](#12카카오-블라인드-테스트) 
+윈터/서머코딩 | [링크](#13윈터서머-코딩) 
+팁스다운 | [링크](#14팁스다운) 
+DevMaching |[링크](#15-devmaching)
+월간 코드 챌린지 |[링크](#16-월간-코드-챌린지)
+위클리 챌린지 |[링크](#16-월간-코드-챌린지)
 
 
 ## 1.해시
@@ -61,7 +61,7 @@ Lv2|H-Index|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC
 ## 5.완전탐색
 레벨 | 문제이름 | 주소 
 --------|--------|---------
-Lv1|모의고사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv1)/MockTest.cpp) 
+Lv1|모의고사|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv1)/MockTest.cpp), kotlin 
 LV2|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv2)/L2_primeNumber.cpp) 
 Lv2|숫자야구|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20Lv2)/Lv2_Numbers_BaseBall.cpp) 
 Lv2|카펫|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%B9%B4%ED%8E%AB(%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%20LV2)/Lv2_Carpet.cpp) 
@@ -177,7 +177,6 @@ Lv2 | 예상대진표 | [cpp](https://github.com/daum7766/ProgrammersProblem/blo
 | 레벨 | 문제이름                   | 주소         |
 | ---- | -------------------------- | ------------ |
 | Lv1  | 로또의 최고순위와 최소순위 | Java, kotlin |
-|      |                            |              |
 
 
 
