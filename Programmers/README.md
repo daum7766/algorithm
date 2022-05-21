@@ -4,7 +4,7 @@
 ## 목차
 타입 | 링크
 --------|--------
-해시 | [링크](#1.해시) 
+해시 | [링크](#1해시) 
 스택/큐 | [링크](https://github.com/daum7766/ProgrammersProblem#2%EC%8A%A4%ED%83%9D%ED%81%90)
 힙 | [링크](https://github.com/daum7766/ProgrammersProblem#3%ED%9E%99heap)
 정렬 | [링크](https://github.com/daum7766/ProgrammersProblem#4%EC%A0%95%EB%A0%AC)
@@ -161,7 +161,7 @@ Lv1|2022 신고결과받기 | Java
 Lv2 | 2017 멀쩡한 사각형 | Java 
 Lv2|2018 스킬트리|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/2018%EC%84%9C%EB%A8%B8%2C%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9/Lv2_SkillTree.cpp) 
 Lv2 | 2018 영어 끝말잇기 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/2018%EC%84%9C%EB%A8%B8%2C%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9/Lv2_word_chain.cpp) 
-Lv2 | 소수만들기 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) 
+Lv2 | 소수만들기 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp), kotlin 
 
 
 ## 14.팁스다운
