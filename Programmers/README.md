@@ -187,7 +187,7 @@ Lv2 | 예상대진표 | [cpp](https://github.com/daum7766/ProgrammersProblem/blo
 | Lv1  | 음양 더하기               | Java, kotlin |
 | Lv1  | 내적                      | Java, kotlin |
 | Lv1  | 약수의 개수와 덧셈        | Java         |
-| Lv1  | 3진법 뒤집기              | Java         |
+| Lv1  | 3진법 뒤집기              | Java, kotlin |
 | Lv1  | 두개뽑아서더하기          | Java         |
 | Lv1  | 나머지가 1이 되는 수 찾기 | kotlin       |
 
