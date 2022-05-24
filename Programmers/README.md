@@ -117,15 +117,16 @@ Lv5|방의 개수|미구현
 --------|--------|---------
 Lv1|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0(Lv1)/Lv1_PrimeNumber.cpp) 
 Lv1|최대공약수와 최소공배수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%2C%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98(Lv1)/Lv1_gcd_lcm.cpp) 
+Lv1|2016년|kotlin 
 Lv2|124나라의 숫자|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90(Lv2)/124Number.cpp)                            
-Lv2|최솟값 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) | 미작성
-Lv2|피보나치 수열|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4(Lv2)/Fibonacci(Lv2).cpp) | 미작성
-Lv2|숫자의 표현 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84(Lv2)/Lv2_ExpressOfNumber.cpp) | [티스토리](https://mungto.tistory.com/13)
-Lv2| 다음 큰 숫자 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90(Lv2)/Lv2_NextBigNumber.cpp) | 미작성
-Lv2 | 올바른 괄호 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8(Lv2)/Lv2_Correct_Parenthesis.cpp) | 미작성
-Lv2 | 최댓값,최솟값 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/LV2_max_min.cpp) | 미작성
-Lv2 | JadenCase | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/Lv2_JadenCase.cpp) | 미작성
-Lv2 | N개의 최소공배수 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/Lv2_JadenCase.cpp) | 미작성
+Lv2|최솟값 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) 
+Lv2|피보나치 수열|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4(Lv2)/Fibonacci(Lv2).cpp) 
+Lv2|숫자의 표현 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84(Lv2)/Lv2_ExpressOfNumber.cpp) 
+Lv2| 다음 큰 숫자 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90(Lv2)/Lv2_NextBigNumber.cpp) 
+Lv2 | 올바른 괄호 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8(Lv2)/Lv2_Correct_Parenthesis.cpp) 
+Lv2 | 최댓값,최솟값 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/LV2_max_min.cpp) 
+Lv2 | JadenCase | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/Lv2_JadenCase.cpp) 
+Lv2 | N개의 최소공배수 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/Lv2_JadenCase.cpp) 
 
 
 ## 12.카카오 블라인드 테스트
