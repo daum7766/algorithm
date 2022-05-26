@@ -119,6 +119,7 @@ Lv1|소수찾기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/maste
 Lv1|최대공약수와 최소공배수|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%2C%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98(Lv1)/Lv1_gcd_lcm.cpp) 
 Lv1|2016년|kotlin 
 Lv1|가운데 글자 가져오기|kotlin 
+Lv1|나누어 떨어지는 숫자 배열|kotlin 
 Lv2|124나라의 숫자|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90(Lv2)/124Number.cpp)                            
 Lv2|최솟값 만들기|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0(Lv2)/makePrimeNumber.cpp) 
 Lv2|피보나치 수열|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EA%B8%B0%ED%83%80%EB%AC%B8%EC%A0%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4(Lv2)/Fibonacci(Lv2).cpp) 
