@@ -173,7 +173,7 @@ Lv4|2019 겨울 인턴십 호텔 방 배정|py
 Lv1|2020 문자열 압축|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv1_String_compression.cpp), py 
 Lv2|2020 괄호변환 | [cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2020/Lv2_change_bracket.cpp) 
 Lv3|2020 기둥과 보 | Java 
-Lv1|2020 인턴십 키패드 누르기 | py 
+Lv1|2020 인턴십 키패드 누르기 | py, kotlin 
 Lv2|2020 인턴십 수식 최대화 | py 
 Lv3|2020 인턴십보석쇼핑 | py, Java 
 Lv1|2021 신규 아이디 추천 | Java, kotlin 
