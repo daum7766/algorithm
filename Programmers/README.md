@@ -157,15 +157,15 @@ Lv2 | N개의 최소공배수 | [cpp](https://github.com/daum7766/ProgrammersPro
 ## 12.카카오 블라인드 테스트
 레벨 | 문제이름 | 주소 
 --------|--------|---------
+Lv2 | 2017 카카오프렌즈 컬러링북 | Java 
+Lv2 | 2017 단체사진찍기 | Java 
 Lv1|2018 다트게임|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_DartGame.cpp) 
 Lv1|2018 비밀지도|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2018/Lv1_SecretMap.cpp) 
-Lv1|2019 실패율|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv1_Failure%20rate.cpp) 
-Lv1|2019 겨울 인턴십 크레인게임|py 
-Lv2|2017 카카오프렌즈 컬러링북|Java 
-Lv2|2017 단체사진찍기|Java 
 Lv2|2018 뉴스 클러스터링|Java 
+Lv1|2019 실패율|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv1_Failure%20rate.cpp) 
 Lv2|2019 후보키|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_CandidateKey.cpp) 
 Lv2|2019 오픈채팅|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv2_OpenChatting.cpp) 
+Lv1|2019 겨울 인턴십 크레인게임|py, kotlin 
 Lv2|2019 겨울 인턴십 튜플|py 
 Lv3|2019 겨울 인턴십 불량이용자|py, Java 
 Lv4|2019 무지의 먹방라이브|[cpp](https://github.com/daum7766/ProgrammersProblem/blob/master/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C/2019/Lv4_eatingLive.cpp) 
